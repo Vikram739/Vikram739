@@ -24,8 +24,8 @@
   ---
 
 ### :woman_technologist: About Me :
-  I'm Data Science and ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineering Student with skills in python, SQL, statistical modelling, data visualisation seeking an entry level data scientist position.
+  I'm Data Science and Web Devlopment enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineering Student with skills in Java,Javascript(MERN Stack), Python, SQL,PHP,Linux etc.
 
 - :seedling: Exploring Technical Content Writing.
 
