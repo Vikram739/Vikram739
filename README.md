@@ -1,59 +1,58 @@
-# 👨‍💻 **VIKRAM MARKALI**
-
 <div align="center">
-  
-  ![Coding Animation](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
-  
-  ### 🚀 MS in Computer Science @ NYU | Software Engineer | Full Stack Developer
-  
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-    
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-markali-111a9922a)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Hell_116)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikram739)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](your-portfolio-url)
-  
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=Vikram739&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+# **VIKRAM MARKALI**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+### 🚀 MS in Computer Science @ NYU | Software Engineer | Full Stack Developer
+
+<br/>
+
+![Coding Animation](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vikram-markali-111a9922a" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Hell_116" target="_blank">
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Vikram739" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/your-leetcode-username" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="your-portfolio-url" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/FF5722" alt="Portfolio" width="50" height="50"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vikram739&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
 </div>
 
 ---
 
 ## 💫 About Me
 
-```typescript
-const vikram = {
-    location: "New York City, USA 🗽",
-    education: "MS in Computer Science @ NYU (2025-2027)",
-    role: "Software Engineer",
-    background: "BE in Information Technology @ SPPU",
-    experience: {
-        current: "Trainee Software Engineer @ Worldline Global",
-        focus: ["Payment Systems", "Microservices", "Cloud Architecture"],
-        previousRoles: ["Development Intern @ Worldline", "SDE Intern @ Maverick Labs"]
-    },
-    passion: ["Building Scalable Solutions", "GenAI", "Full Stack Development"],
-    currentlyLearning: ["Advanced Algorithms", "Distributed Systems", "Cloud Computing"],
-    funFact: "I solve problems on CodeChef and explore the latest in tech! 🚀"
-};
-```
+Hey there! I'm **Vikram Markali**, a passionate **Software Engineer** and **Full Stack Developer** currently pursuing my **Master of Science in Computer Science at New York University (NYU)** starting September 2025. I completed my **Bachelor of Engineering in Information Technology** from Savitribai Phule Pune University (SPPU) in Pune, India.
 
-### 🎯 What I Do
+I worked as a **Software Engineer at Worldline Global Services** from October 2024 to July 2025, where I developed **scalable, high-performance payment solutions** using **Java** and related frameworks. My work focused on building **microservices architecture** and **RESTful APIs** that handle thousands of transactions with optimal throughput and latency, optimizing **tap-and-pay processing** systems.
 
-- 🏗️ **Building Scalable Systems**: Developed high-performance payment solutions processing thousands of transactions
-- 🤖 **AI/ML Enthusiast**: Created GenAI-powered predictive analytics tools for academic institutions
-- 🌐 **Full Stack Developer**: Proficient in MERN stack, Spring Boot, and modern web technologies
-- 💡 **Problem Solver**: Active on competitive programming platforms and open-source contributor
-- 📝 **Tech Writer**: Exploring technical content writing to share knowledge with the community
+Before that, I interned at **Worldline** as a Development Intern and at **Maverick Labs** as an SDE Intern, where I gained hands-on experience in **payment domain systems**, **GPS-based tracking solutions** (Tracko, Transporto, InfraMachines), and **backend optimization**. I'm particularly passionate about **Generative AI**, having developed a **GenAI-powered Result Analyzer** that's now deployed university-wide at SPPU.
 
-### 💼 Professional Highlights
+My technical expertise spans across **Java**, **Python**, **JavaScript (MERN Stack)**, **Spring Boot**, **Angular**, **SQL**, and **Cloud Computing**. I love building innovative solutions that solve real-world problems, whether it's an **Automated Number Plate Recognition system** for smart parking or comprehensive **campus management platforms**.
 
-🔹 **Worldline Global Services** - Engineered payment solutions with Java & Spring Boot  
-🔹 **GenAI Innovation** - Built result analyzer system deployed university-wide  
-🔹 **Computer Vision** - Developed ANPR system for smart parking management  
-🔹 **API Architect** - Designed RESTful APIs for seamless client integrations  
+When I'm not coding, you'll find me solving problems on **CodeChef**, exploring the latest **tech articles**, and diving deep into **Machine Learning** and **AI innovations**. I'm always eager to collaborate on exciting projects and contribute to the **open-source community**!
 
 ---
 
@@ -80,6 +79,7 @@ const vikram = {
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Technologies
@@ -140,13 +140,11 @@ const vikram = {
 
 ## 🎯 Current Focus
 
-```yaml
-- 📚 Pursuing MS in Computer Science at New York University
-- 💼 Building expertise in Distributed Systems and Cloud Architecture
-- 🤖 Exploring Advanced Machine Learning and GenAI applications
-- 🌐 Contributing to open-source projects
-- 📝 Writing technical blogs and documentation
-```
+- 📚 Pursuing **MS in Computer Science** at **New York University**
+- 💼 Building expertise in **Distributed Systems** and **Cloud Architecture**
+- 🤖 Exploring **Advanced Machine Learning** and **GenAI applications**
+- 🌐 Contributing to **open-source projects**
+- 📝 Writing **technical blogs** and documentation
 
 ---
 
@@ -156,9 +154,9 @@ const vikram = {
   
   **Open for collaborations, innovative projects, and tech discussions!**
   
-  📧 Email: vikrammarkali116@gmail.com  
-  📱 Phone: +91 9373212324  
-  🌐 Based in: New York, USA
+  📧 **Email**: vikrammarkali116@gmail.com  
+  📱 **Phone**: +1 (347) 822 2120  
+  📍 **Location**: New York, USA
   
   <br/>
   
