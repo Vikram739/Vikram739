@@ -12,31 +12,37 @@
 
 ![Coding Animation](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
-<br/>
+<br/><br/>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/vikram-markali-111a9922a" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="50" height="50"/>
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Hell_116" target="_blank">
-  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="50" height="50"/>
+<a href="https://www.instagram.com/your-instagram-username" target="_blank">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Vikram739" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="50" height="50"/>
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/your-leetcode-username" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="50" height="50"/>
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="LeetCode" width="60" height="60" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="your-portfolio-url" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/FF5722" alt="Portfolio" width="50" height="50"/>
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Portfolio" width="60" height="60" />
 </a>
+</p>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vikram739&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikram739&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Vikram739?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+</p>
 
 </div>
 
