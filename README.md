@@ -74,59 +74,45 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%2333D6FF.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23ff7f00.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Databases
+### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Tools & Technologies
+### Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_API-%23968837.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT/OAuth](https://img.shields.io/badge/JWT%2FOAuth-%236DB33F.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-### Specialized Skills
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 Result Analyzer (SPPU) - GenAI Powered Analytics
-**Tech Stack**: Java | MySQL | GenAI | Python | CSV  
-- Developed predictive analytics tool using generative AI for student-educator insights
-- Transformed SPPU results into structured CSVs for efficient analysis
-- Deployed university-wide across all departments
-- Enhanced academic decision-making through data-driven forecasting
+### 🎓 OrbiNasaSense - Spacecraft Orbital Watch System
+**Tech Stack**: Python | TensorFlow | PyTorch | FastAPI | Firebase  
+- Built real-time anomaly detection for NASA spacecraft telemetry to identify unusual patterns indicating failures and critical system issues.
+- Optimized model inference with Redis caching, reducing latency by 40%.
+- Leveraged NASA’s telemetry project to integrate custom anomaly detection algorithms.
+- [GitHub Repository](https://github.com/YourUsername/OrbiNasaSense)
 
-### 🚗 Automated Number Plate Recognition & Smart Parking
-**Tech Stack**: Python | OpenCV | RESTful APIs | MySQL | Angular  
-- Built Computer Vision-based ANPR system for secure vehicle access
-- Implemented automated parking slot detection and management
-- Deployed successfully at college campus improving security and operations
-- Real-time monitoring with user-friendly interface
-
-### 🏫 Campus Manager Pro
-**Tech Stack**: Java | MySQL | RESTful APIs | React | Git  
-- Comprehensive student data management system
-- Streamlined financial operations with automated billing
-- Reduced manual workload through process automation
-- Customizable interface for institutional adaptability
+### 🎓 CourseBid Exchange
+**Tech Stack**: React | Spring Boot | AWS | JWT/OAuth  
+- Developed a course bidding platform with bidding credits, status tracking, and enrollment features.
+- Implemented RBAC and data-partitioning logic to enforce access policies and track bidding transactions.
+- Scaled backend using Spring Boot + AWS to handle 1.5K concurrent users.
+- [GitHub Repository](https://github.com/YourUsername/CourseBid-Exchange)
 
 ---
 
