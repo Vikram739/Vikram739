@@ -13,18 +13,22 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="250"/>
 
 <p align="center"> 
+  
   <a href="https://www.linkedin.com/in/vikram-markali" target="_blank" rel="noopener noreferrer"> 
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" /> 
   </a> &nbsp;&nbsp;&nbsp; 
-  <a href="https://github.com/Vikram739" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" /> 
+  
+  <a href="https://www.instagram.com/vikram.0_0_7/" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" /> 
   </a> &nbsp;&nbsp;&nbsp; 
+  
   <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Portfolio" width="60" height="60" /> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:vrm9190@nyu.edu"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Email" width="60" height="60" /> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Facebook" width="60" height="60" /> 
+  </a> &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.facebook.com/vikram.0_0_7/" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" /> 
   </a>
+
 </p>
 
 </div>
@@ -105,7 +109,7 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
 - Built real-time anomaly detection for NASA spacecraft telemetry to identify unusual patterns indicating failures and critical system issues.
 - Optimized model inference with Redis caching, reducing latency by 40%.
 - Leveraged NASA's telemetry project to integrate custom anomaly detection algorithms.
-- [GitHub Repository](https://github.com/Vikram739/OrbiNasaSense){:target="_blank" rel="noopener noreferrer"}
+- **[GitHub Repository](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)**
 
 ### 🎓 CourseBid Exchange
 **Tech Stack**: React | Spring Boot | AWS | JWT/OAuth | Redis  
@@ -114,7 +118,7 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
 - Achieved sub-300ms latency on Redis-backed sessions enhancing user performance under peak load.
 - Automated AWS CI/CD pipelines reducing deployment time; integrated role-based access control and audit trails.
 - Implemented real-time bidding notifications using WebSockets, improving user engagement by 45% during bidding windows.
-- [GitHub Repository](https://github.com/Vikram739/CourseBid-Exchange){:target="_blank" rel="noopener noreferrer"}
+- **[GitHub Repository](https://github.com/Shreyas191/course-bidding-system)**
 
 ### 🚇 NYC Transit Hub
 **Tech Stack**: React | Redis | SQLite | APScheduler | Firebase | GTFS-RT | Docker  
@@ -122,7 +126,7 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
 - Secured endpoints with Firebase authentication; containerized services using Docker for consistent deployment.
 - Developed trip delay prediction model using historical MTA data, achieving RMSE under 2 minutes for delay forecasts.
 - Built responsive real-time dashboard for NYC subway, bus, and train tracking with live arrival predictions.
-- [GitHub Repository](https://github.com/Vikram739/NYC-Transit-Hub){:target="_blank" rel="noopener noreferrer"}
+- **[GitHub Repository](https://github.com/Shreyas191/nyc-transit-hub)**
 
 ### 📚 CampusConnect Hub - Faculty Portal
 **Tech Stack**: PHP | WordPress | MySQL | HTML/CSS | Advanced Custom Fields  
@@ -130,7 +134,7 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
 - Built on WordPress with custom PHP modules and Advanced Custom Fields (AFC) for dynamic data management and easy updates.
 - Created intuitive dashboards for attendance tracking, notices, and assignment submissions used daily by 100+ faculty members.
 - Deployed platform on shared hosting; currently in active use across multiple departments.
-- [GitHub Repository](https://github.com/Vikram739/CampusConnect-Hub){:target="_blank" rel="noopener noreferrer"}
+- **[GitHub Repository](https://github.com/Vikram739/CampusConnect-Hub)**
 
 ---
 
@@ -159,20 +163,24 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
   📍 **Location**: New York, NY, USA  
   🌐 **Portfolio**: [vikrammarkali.me](https://vikrammarkali.me) 
 
-  <p align="center"> 
-    <a href="https://www.linkedin.com/in/vikram-markali" target="_blank" rel="noopener noreferrer"> 
-      <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" /> 
-    </a> &nbsp;&nbsp;&nbsp; 
-    <a href="https://github.com/Vikram739" target="_blank" rel="noopener noreferrer"> 
-      <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" /> 
-    </a> &nbsp;&nbsp;&nbsp; 
-    <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
-      <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Portfolio" width="60" height="60" /> 
-    </a> &nbsp;&nbsp;&nbsp;
-    <a href="mailto:vrm9190@nyu.edu"> 
-      <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Email" width="60" height="60" /> 
-    </a>
-  </p>  
+<p align="center"> 
+  
+  <a href="https://www.linkedin.com/in/vikram-markali" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" /> 
+  </a> &nbsp;&nbsp;&nbsp; 
+  
+  <a href="https://www.instagram.com/vikram.0_0_7/" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" /> 
+  </a> &nbsp;&nbsp;&nbsp; 
+  
+  <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Facebook" width="60" height="60" /> 
+  </a> &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.facebook.com/vikram.0_0_7/" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" /> 
+  </a>
+
+</p> 
   
   <br/>
   
@@ -186,6 +194,6 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
   
   ### 💡 "Building the future, one commit at a time" 💻
   
-  [vikrammarkali.com](https://vikrammarkali.me)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-vikrammarkali.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikrammarkali.me)
   
 </div>
