@@ -37,15 +37,13 @@
 
 ## 💫 About Me
 
-Hey there! I'm **Vikram Markali**, a passionate **Software Engineer** and **Full Stack Developer** currently pursuing my **Master of Science in Computer Science at New York University (NYU)** starting September 2025. I completed my **Bachelor of Engineering in Information Technology** from Savitribai Phule Pune University (SPPU) in Pune, India.
+Hi, I'm Vikram Markali - a passionate **Software Engineer** and Full Stack Developer currently pursuing my **Master of Science (MS)** in Computer Science at **New York University (NYU).**
 
-I worked as a **Trainee Software Engineer at Worldline Global Services** from October 2024 to July 2025, where I developed **scalable, high-performance payment solutions** using **Java** and related frameworks. My work focused on building **microservices architecture** and **RESTful APIs** that handle thousands of transactions with optimal throughput and latency, optimizing **payment processing** systems and achieving **99.9% uptime**.
+I worked as a Software Engineer at Worldline, where I focused on building microservices architecture, RESTful APIs, and payment processing systems, achieving 99.9% uptime for payment gateway integrations.
 
-Before that, I interned at **Worldline** as a Development Intern and at **Maverick Labs** as an SDE Intern, where I gained hands-on experience in **payment domain systems**, **GPS-based tracking solutions** (Tracko, InfraMachines), and **backend optimization**. I've also worked as a **Freelance Software Developer**, building responsive websites and platforms for small businesses and startups.
+My technical skills include **Java, Python, JavaScript, Spring Boot, React, Angular, SQL, and Cloud Computing.** In my free time, I enjoy solving algorithmic challenges on CodeChef, reading the latest tech articles, and exploring Machine Learning and AI innovations.
 
-My technical expertise spans across **Java**, **Python**, **JavaScript (MERN Stack)**, **Spring Boot**, **Angular**, **SQL**, and **Cloud Computing**. I love building innovative solutions that solve real-world problems, whether it's a **real-time transit tracking system** for NYC or comprehensive **course bidding platforms**.
-
-When I'm not coding, you'll find me solving problems on **CodeChef**, exploring the latest **tech articles**, and diving deep into **Machine Learning** and **AI innovations**. I'm always eager to collaborate on exciting projects and contribute to the **open-source community**!
+I am always open to collaborating on exciting projects and contributing to the open-source community!
 
 ---
 
@@ -127,14 +125,6 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
 - Developed trip delay prediction model using historical MTA data, achieving RMSE under 2 minutes for delay forecasts.
 - Built responsive real-time dashboard for NYC subway, bus, and train tracking with live arrival predictions.
 - **[GitHub Repository](https://github.com/Shreyas191/nyc-transit-hub)**
-
-### 📚 CampusConnect Hub - Faculty Portal
-**Tech Stack**: PHP | WordPress | MySQL | HTML/CSS | Advanced Custom Fields  
-- Designed and developed faculty management platform for undergraduate college to simplify communication and resource sharing.
-- Built on WordPress with custom PHP modules and Advanced Custom Fields (AFC) for dynamic data management and easy updates.
-- Created intuitive dashboards for attendance tracking, notices, and assignment submissions used daily by 100+ faculty members.
-- Deployed platform on shared hosting; currently in active use across multiple departments.
-- **[GitHub Repository](https://github.com/Vikram739/CampusConnect-Hub)**
 
 ---
 
