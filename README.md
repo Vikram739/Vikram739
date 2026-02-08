@@ -23,10 +23,10 @@
   </a> &nbsp;&nbsp;&nbsp; 
   
   <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Facebook" width="60" height="60" /> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Portfolio" width="60" height="60" /> 
   </a> &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.facebook.com/vikram.0_0_7/" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" /> 
+  <a href="https://www.facebook.com/vikram.markali/" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="60" height="60" /> 
   </a>
 
 </p>
@@ -174,13 +174,13 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
   </a> &nbsp;&nbsp;&nbsp; 
   
   <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Facebook" width="60" height="60" /> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Portfolio" width="60" height="60" /> 
   </a> &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.facebook.com/vikram.0_0_7/" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" /> 
+  <a href="https://www.facebook.com/vikram.markali/" target="_blank" rel="noopener noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="60" height="60" /> 
   </a>
 
-</p> 
+</p>
   
   <br/>
   
