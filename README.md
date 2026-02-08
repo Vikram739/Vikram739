@@ -1,48 +1,18 @@
-<div align="center">
+<div align="center" style="border: 10px solid #00D9FF; padding: 20px; border-radius: 20px; box-shadow: 0 0 15px #00D9FF, 0 0 30px #00D9FF, 0 0 50px #00D9FF;">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
-# **VIKRAM MARKALI**
+  # **<span style="color: #00D9FF; text-shadow: 0 0 10px #00D9FF, 0 0 20px #00D9FF, 0 0 30px #00D9FF;">VIKRAM MARKALI</span>**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
-### 🚀 MS in Computer Science @ NYU | Software Engineer | Full Stack Developer
+  ### 🚀 MS in Computer Science @ NYU | Software Engineer | Full Stack Developer
 
-<br/>
+  <br/>
 
-![Coding Animation](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="250"/>
 
-<br/><br/>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/vikram-markali-111a9922a" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/your-instagram-username" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Vikram739" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/your-leetcode-username" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="LeetCode" width="60" height="60" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="your-portfolio-url" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Portfolio" width="60" height="60" />
-</a>
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vikram739&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Vikram739?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/vikram-markali-111a9922a" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/your-instagram-username" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Vikram739" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/your-leetcode-username" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="LeetCode" width="60" height="60" /> </a> &nbsp;&nbsp;&nbsp; <a href="your-portfolio-url" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Portfolio" width="60" height="60" /> </a> </p>
 
 </div>
 
@@ -98,6 +68,19 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
 
 ---
 
+## 🎓 Education
+
+### **Master of Science in Computer Science**  
+**New York University (NYU)** | **Sep 2025 - May 2027**  
+- Coursework: Artificial Intelligence, Machine Learning, Distributed Systems, Big Data
+
+### **Bachelor of Engineering in Information Technology**  
+**Savitribai Phule Pune University (SPPU)** | **Aug 2021 - Jun 2024**  
+- Coursework: Data Structures, Algorithms, Operating Systems, Database Systems  
+ 
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎓 OrbiNasaSense - Spacecraft Orbital Watch System
@@ -130,25 +113,18 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
 
 ---
 
-## 🎯 Current Focus
-
-- 📚 Pursuing **MS in Computer Science** at **New York University**
-- 💼 Building expertise in **Distributed Systems** and **Cloud Architecture**
-- 🤖 Exploring **Advanced Machine Learning** and **GenAI applications**
-- 🌐 Contributing to **open-source projects**
-- 📝 Writing **technical blogs** and documentation
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
   
   **Open for collaborations, innovative projects, and tech discussions!**
   
-  📧 **Email**: vikrammarkali116@gmail.com  
+  📧 **Email**: vrm9190@nyu.edu  
   📱 **Phone**: +1 (347) 822 2120  
-  📍 **Location**: New York, USA
+  📍 **Location**: New York, NY, USA  
+  🌐 **Portfolio**: [vikrammarkali.me](http://vikrammarkali.me) 
+
+  <p align="center"> <a href="https://www.linkedin.com/in/vikram-markali-111a9922a" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/your-instagram-username" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Vikram739" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="GitHub" width="60" height="60" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/your-leetcode-username" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="LeetCode" width="60" height="60" /> </a> &nbsp;&nbsp;&nbsp; <a href="your-portfolio-url" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Portfolio" width="60" height="60" /> </a> </p>  
   
   <br/>
   
@@ -162,6 +138,6 @@ When I'm not coding, you'll find me solving problems on **CodeChef**, exploring 
   
   ### 💡 "Building the future, one commit at a time" 💻
   
-  ![Visitor Count](https://profile-counter.glitch.me/Vikram739/count.svg)
+  [vikrammarkali.com](https://vikrammarkali.me)
   
 </div>
