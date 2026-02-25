@@ -25,6 +25,7 @@
   <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Portfolio" width="60" height="60" /> 
   </a> &nbsp;&nbsp;&nbsp; 
+
   <a href="https://www.facebook.com/vikram.markali/" target="_blank" rel="noopener noreferrer"> 
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="60" height="60" /> 
   </a>
@@ -90,54 +91,58 @@ I am always open to collaborating on exciting projects and contributing to the o
 
 ## 🎓 Education
 
-### **Master of Science in Computer Science**  
-**New York University (NYU)** | **Sep 2025 - May 2027** | **GPA: 3.7**  
+### **New York University (NYU)**
+**Master of Science in Computer Science** &nbsp;|&nbsp; Sep 2025 – May 2027 &nbsp;|&nbsp; GPA: 3.7
 - Coursework: Artificial Intelligence, Data Structures & Algorithms, Big Data, Machine Learning, Database Systems, Software Engineering
 
-### **Bachelor of Engineering in Information Technology**  
-**Savitribai Phule Pune University (SPPU)** | **Aug 2021 - Jun 2024** | **GPA: 3.82**  
+### **Savitribai Phule Pune University (SPPU)**
+**Bachelor of Engineering in Information Technology** &nbsp;|&nbsp; Aug 2021 – Jun 2024 &nbsp;|&nbsp; GPA: 3.82
 - Coursework: Data Structures, Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Networks
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 OrbiNasaSense - Spacecraft Orbital Watch System
-**Tech Stack**: Python | TensorFlow | PyTorch | FastAPI | Firebase  
+### ⚡ OrbiNasaSense — Spacecraft Orbital Watch System
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Python` `TensorFlow` `PyTorch` `FastAPI` `Firebase`
 - Built real-time anomaly detection for NASA spacecraft telemetry to identify unusual patterns indicating failures and critical system issues.
 - Optimized model inference with Redis caching, reducing latency by 40%.
 - Leveraged NASA's telemetry project to integrate custom anomaly detection algorithms.
-- **[GitHub Repository](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)**
+- **[🔗 GitHub Repository](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)**
 
-### 🎓 CourseBid Exchange
-**Tech Stack**: React | Spring Boot | AWS | JWT/OAuth | Redis  
+### ⚡ CourseBid Exchange
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `React` `Spring Boot` `AWS` `JWT/OAuth` `Redis`
 - Developed a course bidding platform with bidding credits, status tracking, and enrollment features supporting 1,500+ enrolled students.
 - Implemented RBAC and data-partitioning logic to enforce access policies and track bidding transactions.
 - Achieved sub-300ms latency on Redis-backed sessions enhancing user performance under peak load.
 - Automated AWS CI/CD pipelines reducing deployment time; integrated role-based access control and audit trails.
 - Implemented real-time bidding notifications using WebSockets, improving user engagement by 45% during bidding windows.
-- **[GitHub Repository](https://github.com/Shreyas191/course-bidding-system)**
+- **[🔗 GitHub Repository](https://github.com/Shreyas191/course-bidding-system)**
 
-### 🚇 NYC Transit Hub
-**Tech Stack**: React | Redis | SQLite | APScheduler | Firebase | GTFS-RT | Docker  
+### ⚡ NYC Transit Hub
+&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `React` `Redis` `SQLite` `APScheduler` `Firebase` `GTFS-RT` `Docker`
 - Integrated MTA GTFS-RT feeds for real-time transit information with intelligent caching and scheduled data updates.
 - Secured endpoints with Firebase authentication; containerized services using Docker for consistent deployment.
 - Developed trip delay prediction model using historical MTA data, achieving RMSE under 2 minutes for delay forecasts.
 - Built responsive real-time dashboard for NYC subway, bus, and train tracking with live arrival predictions.
-- **[GitHub Repository](https://github.com/Shreyas191/nyc-transit-hub)**
+- **[🔗 GitHub Repository](https://github.com/Shreyas191/nyc-transit-hub)**
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vikram739&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&date_format=M%20j%5B%2C%20Y%5D)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram739&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=html,css)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&include_all_commits=true&count_private=true)
-  
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Vikram739&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_total_contributions=false&dates=0D1117)](https://streak-stats.demolab.com?user=Vikram739)
+
+  [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vikram739&theme=radical&hide_border=true)](https://github.com/Vikram739)
+  &nbsp;
+  [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikram739&theme=radical&hide_border=true)](https://github.com/Vikram739)
+
+  [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vikram739&theme=radical&hide_border=true)](https://github.com/Vikram739)
+  &nbsp;
+  [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vikram739&theme=radical&hide_border=true&utcOffset=-5)](https://github.com/Vikram739)
+
 </div>
 
 ---
@@ -166,6 +171,7 @@ I am always open to collaborating on exciting projects and contributing to the o
   <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Portfolio" width="60" height="60" /> 
   </a> &nbsp;&nbsp;&nbsp; 
+
   <a href="https://www.facebook.com/vikram.markali/" target="_blank" rel="noopener noreferrer"> 
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="60" height="60" /> 
   </a>
