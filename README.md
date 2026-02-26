@@ -42,7 +42,7 @@ Hi, I'm Vikram Markali - a passionate **Software Engineer** and Full Stack Devel
 
 I worked as a Software Engineer at Worldline, where I focused on building microservices architecture, RESTful APIs, and payment processing systems, achieving 99.9% uptime for payment gateway integrations.
 
-My technical skills include **Java, Python, JavaScript, Spring Boot, React, Angular, SQL, and Cloud Computing.** In my free time, I enjoy solving algorithmic challenges on CodeChef, reading the latest tech articles, and exploring Machine Learning and AI innovations.
+My technical skills include **Java, Python, JavaScript, Spring Boot, React, Angular, SQL, and Cloud Computing.** In my free time, I enjoy solving algorithmic challenges, reading the latest tech articles, and exploring Machine Learning and AI innovations.
 
 I am always open to collaborating on exciting projects and contributing to the open-source community!
 
