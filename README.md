@@ -1,195 +1,182 @@
-<div align="center" style="border: 10px solid #00D9FF; padding: 20px; border-radius: 20px; box-shadow: 0 0 15px #00D9FF, 0 0 30px #00D9FF, 0 0 50px #00D9FF;">
+<div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:4338CA,100:22D3EE&height=4&section=header" width="100%"/>
 
-  # **<span style="color: #00D9FF; text-shadow: 0 0 10px #00D9FF, 0 0 20px #00D9FF, 0 0 30px #00D9FF;">VIKRAM MARKALI</span>**
+<br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=VIKRAM%20MARKALI&fontSize=56&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&height=150&desc=Software%20Engineer%20%7C%20Builder%20of%20Agentic%20Systems&descSize=16&descAlignY=66&descColor=22D3EE"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=VIKRAM%20MARKALI&fontSize=56&fontColor=151B3B&fontAlignY=42&animation=fadeIn&height=150&desc=Software%20Engineer%20%7C%20Builder%20of%20Agentic%20Systems&descSize=16&descAlignY=66&descColor=4338CA"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=VIKRAM%20MARKALI&fontSize=56&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&height=150&desc=Software%20Engineer%20%7C%20Builder%20of%20Agentic%20Systems&descSize=16&descAlignY=66&descColor=22D3EE" alt="Vikram Markali"/>
+</picture>
 
-  ### 🚀 MS in Computer Science @ NYU | Software Engineer | Full Stack Developer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Currently+shipping+EFLense-v1+and+Stellarr"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=4338CA&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Currently+shipping+EFLense-v1+and+Stellarr"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Currently+shipping+EFLense-v1+and+Stellarr" alt="Typing animation"/>
+</picture>
 
-  <br/>
+<br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="250"/>
+<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1B2350?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+<a href="https://vikrammarkali.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1B2350?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="mailto:vrm9190@nyu.edu"><img src="https://img.shields.io/badge/Email-1B2350?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
+<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1B2350?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram"/></a>
+<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1B2350?style=for-the-badge&logo=facebook&logoColor=22D3EE" alt="Facebook"/></a>
 
-<p align="center"> 
-  
-  <a href="https://www.linkedin.com/in/vikram-markali" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" /> 
-  </a> &nbsp;&nbsp;&nbsp; 
-  
-  <a href="https://www.instagram.com/vikram.0_0_7/" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" /> 
-  </a> &nbsp;&nbsp;&nbsp; 
-  
-  <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Portfolio" width="60" height="60" /> 
-  </a> &nbsp;&nbsp;&nbsp; 
+<br/><br/>
 
-  <a href="https://www.facebook.com/vikram.markali/" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="60" height="60" /> 
-  </a>
-
-</p>
+<img src="https://img.shields.io/badge/OPEN%20TO-SWE%20INTERNSHIPS-F59E0B?style=for-the-badge&logo=target&logoColor=0A0E27" alt="Open to internships"/>
 
 </div>
 
----
+<br/>
 
-## 💫 About Me
+## `$ cat about.md`
 
-Hi, I'm Vikram Markali - a passionate **Software Engineer** and Full Stack Developer currently pursuing my **Master of Science (MS)** in Computer Science at **New York University (NYU).**
+I'm a software engineer working at the intersection of backend systems and applied AI. At **NYU's Endless Frontier Labs** I build agentic LLM pipelines and internal tooling that 30+ early-stage startups run on. Before that, I shipped payment infrastructure at **Worldline Global Services** and GPS tracking systems at **Maverick Labs**.
 
-I worked as a Software Engineer at Worldline, where I focused on building microservices architecture, RESTful APIs, and payment processing systems, achieving 99.9% uptime for payment gateway integrations.
+Pursuing an MS in Computer Science at **NYU Tandon** (2027). Most of my recent work splits between production WordPress/Salesforce integrations by day and zero-backend AI side projects by night.
 
-My technical skills include **Java, Python, JavaScript, Spring Boot, React, Angular, SQL, and Cloud Computing.** In my free time, I enjoy solving algorithmic challenges, reading the latest tech articles, and exploring Machine Learning and AI innovations.
+Off the clock: probably reading WWE storylines like they're system architecture, or treating a skincare routine like an A/B test that needs more data.
 
-I am always open to collaborating on exciting projects and contributing to the open-source community!
+<br/>
 
----
+## `$ ls -la tech_stack/`
 
-## 🛠️ Tech Arsenal
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-1B2350?style=for-the-badge&logo=openjdk&logoColor=22D3EE" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-1B2350?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-1B2350?style=for-the-badge&logo=javascript&logoColor=22D3EE" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1B2350?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" alt="C++"/>
+<img src="https://img.shields.io/badge/PHP-1B2350?style=for-the-badge&logo=php&logoColor=22D3EE" alt="PHP"/>
 
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Backend & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-1B2350?style=for-the-badge&logo=springboot&logoColor=22D3EE" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/FastAPI-1B2350?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/LangChain-1B2350?style=for-the-badge&logo=chainlink&logoColor=22D3EE" alt="LangChain"/>
+<img src="https://img.shields.io/badge/React-1B2350?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React"/>
+<img src="https://img.shields.io/badge/Angular-1B2350?style=for-the-badge&logo=angular&logoColor=22D3EE" alt="Angular"/>
 
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%2333D6FF.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23ff7f00.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Data & Infra**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-1B2350?style=for-the-badge&logo=postgresql&logoColor=22D3EE" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-1B2350?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Redis-1B2350?style=for-the-badge&logo=redis&logoColor=22D3EE" alt="Redis"/>
+<img src="https://img.shields.io/badge/Firebase-1B2350?style=for-the-badge&logo=firebase&logoColor=22D3EE" alt="Firebase"/>
+<img src="https://img.shields.io/badge/AWS-1B2350?style=for-the-badge&logo=amazonaws&logoColor=22D3EE" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-1B2350?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker"/>
+<img src="https://img.shields.io/badge/WordPress-1B2350?style=for-the-badge&logo=wordpress&logoColor=22D3EE" alt="WordPress"/>
 
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Tooling**
+<br/>
+<img src="https://img.shields.io/badge/Git-1B2350?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-1B2350?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-1B2350?style=for-the-badge&logo=postman&logoColor=22D3EE" alt="Postman"/>
+<img src="https://img.shields.io/badge/VS%20Code-1B2350?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="VS Code"/>
+<img src="https://img.shields.io/badge/JWT%2FOAuth-1B2350?style=for-the-badge&logo=jsonwebtokens&logoColor=22D3EE" alt="JWT/OAuth"/>
 
-### Developer Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_API-%23968837.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT/OAuth](https://img.shields.io/badge/JWT%2FOAuth-%236DB33F.svg?style=for-the-badge&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+<br/>
 
----
+## `$ tail -f currently_building.log`
 
-## 🎓 Education
+**EFLense-v1** · zero-backend AI pipeline. GitHub Actions cron + Supabase (pgvector) + free-tier LLMs (Gemini/Groq) + Next.js on Vercel. Runs for $0/month.
+<br/>
+[`github.com/Vikram739/EFLense-v1`](https://github.com/Vikram739/EFLense-v1)
 
-### **New York University (NYU)**
-**Master of Science in Computer Science** &nbsp;|&nbsp; Sep 2025 – May 2027 &nbsp;|&nbsp; GPA: 3.7
-- Coursework: Artificial Intelligence, Data Structures & Algorithms, Big Data, Machine Learning, Database Systems, Software Engineering
+**Stellarr** · AI-powered job hunting OS. Same zero-backend pattern, four-table Supabase schema (jobs, startups, contacts, outreach).
+<br/>
+[`github.com/Vikram739/Stellarr`](https://github.com/Vikram739/Stellarr)
 
-### **Savitribai Phule Pune University (SPPU)**
-**Bachelor of Engineering in Information Technology** &nbsp;|&nbsp; Aug 2021 – Jun 2024 &nbsp;|&nbsp; GPA: 3.82
-- Coursework: Data Structures, Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Networks
+<br/>
 
----
-
-## 🚀 Featured Projects
-
-### ⚡ OrbiNasaSense — Spacecraft Orbital Watch System
-&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Python` `TensorFlow` `PyTorch` `FastAPI` `Firebase`
-- Built real-time anomaly detection for NASA spacecraft telemetry to identify unusual patterns indicating failures and critical system issues.
-- Optimized model inference with Redis caching, reducing latency by 40%.
-- Leveraged NASA's telemetry project to integrate custom anomaly detection algorithms.
-- **[🔗 GitHub Repository](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)**
-
-### ⚡ CourseBid Exchange
-&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `React` `Spring Boot` `AWS` `JWT/OAuth` `Redis`
-- Developed a course bidding platform with bidding credits, status tracking, and enrollment features supporting 1,500+ enrolled students.
-- Implemented RBAC and data-partitioning logic to enforce access policies and track bidding transactions.
-- Achieved sub-300ms latency on Redis-backed sessions enhancing user performance under peak load.
-- Automated AWS CI/CD pipelines reducing deployment time; integrated role-based access control and audit trails.
-- Implemented real-time bidding notifications using WebSockets, improving user engagement by 45% during bidding windows.
-- **[🔗 GitHub Repository](https://github.com/Shreyas191/course-bidding-system)**
-
-### ⚡ NYC Transit Hub
-&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `React` `Redis` `SQLite` `APScheduler` `Firebase` `GTFS-RT` `Docker`
-- Integrated MTA GTFS-RT feeds for real-time transit information with intelligent caching and scheduled data updates.
-- Secured endpoints with Firebase authentication; containerized services using Docker for consistent deployment.
-- Developed trip delay prediction model using historical MTA data, achieving RMSE under 2 minutes for delay forecasts.
-- Built responsive real-time dashboard for NYC subway, bus, and train tracking with live arrival predictions.
-- **[🔗 GitHub Repository](https://github.com/Shreyas191/nyc-transit-hub)**
-
----
-
-## 📊 GitHub Statistics
+## `$ cat featured_projects.md`
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Vikram739&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_total_contributions=false&dates=0D1117)](https://streak-stats.demolab.com?user=Vikram739)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0E27,100:1B2350&height=90&section=header&text=OrbiNasaSense&fontSize=30&fontColor=E2E8F0&fontAlignY=40&desc=Spacecraft%20Orbital%20Watch%20System&descSize=14&descColor=94A3B8&descAlignY=68&animation=fadeIn" width="100%" alt="OrbiNasaSense - Spacecraft Orbital Watch System"/>
 
-  [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vikram739&theme=radical&hide_border=true)](https://github.com/Vikram739)
-  &nbsp;
-  [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikram739&theme=radical&hide_border=true)](https://github.com/Vikram739)
+<sub>**PROJECT 01**</sub>
 
-  [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vikram739&theme=radical&hide_border=true)](https://github.com/Vikram739)
-  &nbsp;
-  [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vikram739&theme=radical&hide_border=true&utcOffset=-5)](https://github.com/Vikram739)
+<img src="https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-1B2350?style=flat-square&logo=tensorflow&logoColor=22D3EE" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-1B2350?style=flat-square&logo=pytorch&logoColor=22D3EE" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/FastAPI-1B2350?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE" alt="Firebase"/>
+
+Real-time anomaly detection on NASA spacecraft telemetry, comparing LSTM, Transformer, and Isolation Forest models (Transformer came out on top). Redis-cached inference cut latency by 40%.
+
+<a href="https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27" alt="View Repository"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B2350,100:4338CA&height=90&section=header&text=CourseBid%20Exchange&fontSize=30&fontColor=E2E8F0&fontAlignY=40&desc=Real-Time%20Course%20Bidding%20Platform&descSize=14&descColor=94A3B8&descAlignY=68&animation=fadeIn" width="100%" alt="CourseBid Exchange - Real-Time Course Bidding Platform"/>
+
+<sub>**PROJECT 02**</sub>
+
+<img src="https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE" alt="React"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-1B2350?style=flat-square&logo=springboot&logoColor=22D3EE" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/AWS-1B2350?style=flat-square&logo=amazonaws&logoColor=22D3EE" alt="AWS"/>
+<img src="https://img.shields.io/badge/JWT%2FOAuth-1B2350?style=flat-square&logo=jsonwebtokens&logoColor=22D3EE" alt="JWT/OAuth"/>
+<img src="https://img.shields.io/badge/Redis-1B2350?style=flat-square&logo=redis&logoColor=22D3EE" alt="Redis"/>
+
+Course bidding platform with bidding credits, status tracking, and enrollment, supporting 1,500+ enrolled students. RBAC and data-partitioning enforce access policies. Redis-backed sessions hold sub-300ms latency under peak load. WebSocket notifications lifted bidding-window engagement by 45%.
+
+<a href="https://github.com/Shreyas191/course-bidding-system" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27" alt="View Repository"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4338CA,100:7C3AED&height=90&section=header&text=NYC%20Transit%20Hub&fontSize=30&fontColor=E2E8F0&fontAlignY=40&desc=Live%20MTA%20Transit%20Dashboard&descSize=14&descColor=E0D8FF&descAlignY=68&animation=fadeIn" width="100%" alt="NYC Transit Hub - Live MTA Transit Dashboard"/>
+
+<sub>**PROJECT 03**</sub>
+
+<img src="https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE" alt="React"/>
+<img src="https://img.shields.io/badge/Redis-1B2350?style=flat-square&logo=redis&logoColor=22D3EE" alt="Redis"/>
+<img src="https://img.shields.io/badge/SQLite-1B2350?style=flat-square&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Docker-1B2350?style=flat-square&logo=docker&logoColor=22D3EE" alt="Docker"/>
+
+Live MTA GTFS-RT integration with caching and scheduled refresh. A delay prediction model trained on historical MTA data holds RMSE under 2 minutes. Firebase-authenticated, Dockerized for consistent deployment.
+
+<a href="https://github.com/Shreyas191/nyc-transit-hub" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27" alt="View Repository"/></a>
 
 </div>
 
----
+<br/>
 
-## 📫 Let's Connect!
+## `$ git log --stat --since=2025`
 
 <div align="center">
-  
-  **Open for collaborations, innovative projects, and tech discussions!**
-  
-  📧 **Email**: vrm9190@nyu.edu  
-  📱 **Phone**: +1 (347) 822-2120  
-  📍 **Location**: New York, NY, USA  
-  🌐 **Portfolio**: [vikrammarkali.me](https://vikrammarkali.me) 
 
-<p align="center"> 
-  
-  <a href="https://www.linkedin.com/in/vikram-markali" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" height="60" /> 
-  </a> &nbsp;&nbsp;&nbsp; 
-  
-  <a href="https://www.instagram.com/vikram.0_0_7/" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="60" height="60" /> 
-  </a> &nbsp;&nbsp;&nbsp; 
-  
-  <a href="https://vikrammarkali.me" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Portfolio" width="60" height="60" /> 
-  </a> &nbsp;&nbsp;&nbsp; 
+<img src="https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram739&layout=compact&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0" alt="Top languages" height="165"/>
 
-  <a href="https://www.facebook.com/vikram.markali/" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="60" height="60" /> 
-  </a>
+<br/>
 
-</p>
-  
-  <br/>
-  
-  <svg width="100%" height="100%" id="svg" viewBox="0 0 1440 390" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%"><stop offset="5%" stop-color="#00D9FF"></stop><stop offset="95%" stop-color="#0066FF"></stop></linearGradient></defs><path d="M 0,400 C 0,400 0,200 0,200 C 114.35714285714286,156.53571428571428 228.71428571428572,113.07142857142857 351,131 C 473.2857142857143,148.92857142857142 603.5,228.25 713,248 C 822.5,267.75 911.2857142857142,227.92857142857142 1029,210 C 1146.7142857142858,192.07142857142858 1293.3571428571427,196.03571428571428 1440,200 C 1440,200 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="0.53" class="transition-all duration-300 ease-in-out delay-150 path-0"></path><defs><linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%"><stop offset="5%" stop-color="#00D9FF"></stop><stop offset="95%" stop-color="#0066FF"></stop></linearGradient></defs><path d="M 0,400 C 0,400 0,300 0,300 C 128.89285714285714,328.03571428571428 257.7857142857143,356.07142857142856 362,340 C 466.2142857142857,323.92857142857144 545.75,263.75 652,249 C 758.25,234.25 891.2142857142858,265.92857142857144 1008,278 C 1124.7857142857142,290.07142857142856 1225.392857142857,282.53571428571425 1327,278 C 1428.607142857143,273.46428571428575 1531.2142857142858,271.92857142857144 1440,270 C 1440,300 1440,400 1440,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-1"></path></svg>
-  
+<img src="https://streak-stats.demolab.com/?user=Vikram739&hide_border=true&background=0A0E27&stroke=1B2350&ring=7C3AED&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vikram739&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies"/>
+
 </div>
 
----
+<br/>
+
+## `$ ./connect.sh`
 
 <div align="center">
-  
-  ### 💡 "Building the future, one commit at a time" 💻
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-vikrammarkali.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikrammarkali.me)
-  
+
+📍 New York, NY &nbsp;·&nbsp; 📱 +1 (347) 822-2120 &nbsp;·&nbsp; 📧 [vrm9190@nyu.edu](mailto:vrm9190@nyu.edu) &nbsp;·&nbsp; 🌐 [vikrammarkali.me](https://vikrammarkali.me)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vikram739&label=Profile%20Views&color=1B2350&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:4338CA,100:0A0E27&height=4&section=footer" width="100%"/>
+
 </div>
