@@ -121,10 +121,10 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 <div align="center">
 
 <a href="https://github.com/Vikram739">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&rank_icon=github&cache_seconds=1800" alt="GitHub stats" height="165"/>
 </a>
 <a href="https://github.com/Vikram739">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram739&layout=compact&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&hide=php&langs_count=8" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram739&layout=compact&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&hide=php&langs_count=8&cache_seconds=1800" alt="Top languages" height="165"/>
 </a>
 
 <br/>
@@ -135,7 +135,7 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vikram739&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vikram739&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4" alt="Trophies"/>
 
 </div>
 
