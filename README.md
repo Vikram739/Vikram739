@@ -11,9 +11,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Currently+shipping+EFLense-v1+and+Stellarr"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=4338CA&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Currently+shipping+EFLense-v1+and+Stellarr"/>
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Currently+shipping+EFLense-v1+and+Stellarr" alt="Typing animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr;Agentic+AI+%7C+Full-Stack+%7C+Backend+Systems"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=4338CA&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr;Agentic+AI+%7C+Full-Stack+%7C+Backend+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU+Tandon%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr;Agentic+AI+%7C+Full-Stack+%7C+Backend+Systems" alt="Typing animation"/>
 </picture>
 
 <br/>
@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-SWE%20INTERNSHIPS-F59E0B?style=for-the-badge&logo=target&logoColor=0A0E27" alt="Open to internships"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-SWE%20INTERNSHIPS%20FALL%202026-F59E0B?style=for-the-badge&logo=target&logoColor=0A0E27" alt="Open to internships"/>
 
 </div>
 
@@ -49,6 +49,7 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 <img src="https://img.shields.io/badge/Java-1B2350?style=for-the-badge&logo=openjdk&logoColor=22D3EE" alt="Java"/>
 <img src="https://img.shields.io/badge/Python-1B2350?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-1B2350?style=for-the-badge&logo=javascript&logoColor=22D3EE" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-1B2350?style=for-the-badge&logo=typescript&logoColor=22D3EE" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/C%2B%2B-1B2350?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" alt="C++"/>
 <img src="https://img.shields.io/badge/PHP-1B2350?style=for-the-badge&logo=php&logoColor=22D3EE" alt="PHP"/>
 
@@ -57,6 +58,7 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 <img src="https://img.shields.io/badge/Spring%20Boot-1B2350?style=for-the-badge&logo=springboot&logoColor=22D3EE" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/FastAPI-1B2350?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/LangChain-1B2350?style=for-the-badge&logo=chainlink&logoColor=22D3EE" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Next.js-1B2350?style=for-the-badge&logo=nextdotjs&logoColor=22D3EE" alt="Next.js"/>
 <img src="https://img.shields.io/badge/React-1B2350?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React"/>
 <img src="https://img.shields.io/badge/Angular-1B2350?style=for-the-badge&logo=angular&logoColor=22D3EE" alt="Angular"/>
 
@@ -65,6 +67,7 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 <img src="https://img.shields.io/badge/PostgreSQL-1B2350?style=for-the-badge&logo=postgresql&logoColor=22D3EE" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MySQL-1B2350?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Redis-1B2350?style=for-the-badge&logo=redis&logoColor=22D3EE" alt="Redis"/>
+<img src="https://img.shields.io/badge/Supabase-1B2350?style=for-the-badge&logo=supabase&logoColor=22D3EE" alt="Supabase"/>
 <img src="https://img.shields.io/badge/Firebase-1B2350?style=for-the-badge&logo=firebase&logoColor=22D3EE" alt="Firebase"/>
 <img src="https://img.shields.io/badge/AWS-1B2350?style=for-the-badge&logo=amazonaws&logoColor=22D3EE" alt="AWS"/>
 <img src="https://img.shields.io/badge/Docker-1B2350?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker"/>
@@ -74,6 +77,7 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 <br/>
 <img src="https://img.shields.io/badge/Git-1B2350?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-1B2350?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-1B2350?style=for-the-badge&logo=githubactions&logoColor=22D3EE" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/Postman-1B2350?style=for-the-badge&logo=postman&logoColor=22D3EE" alt="Postman"/>
 <img src="https://img.shields.io/badge/VS%20Code-1B2350?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="VS Code"/>
 <img src="https://img.shields.io/badge/JWT%2FOAuth-1B2350?style=for-the-badge&logo=jsonwebtokens&logoColor=22D3EE" alt="JWT/OAuth"/>
@@ -82,13 +86,17 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 
 ## `$ tail -f currently_building.log`
 
-**EFLense-v1** · zero-backend AI pipeline. GitHub Actions cron + Supabase (pgvector) + free-tier LLMs (Gemini/Groq) + Next.js on Vercel. Runs for $0/month.
+**ZeroDrive** · unlimited cloud storage via Telegram bot as backend. React+Vite+Tailwind frontend, 5 FastAPI microservices (ports 8000-8004), Firebase auth/metadata. Zero storage cost architecture.
+<br/>
+[`github.com/Vikram739/ZeroDrive`](https://github.com/Vikram739/ZeroDrive)
+
+**Stellarr** · AI-powered job hunting OS. Zero-backend pattern — GitHub Actions cron + Supabase (pgvector) + Next.js on Vercel. Four-table schema: jobs, startups, contacts, outreach.
+<br/>
+[`github.com/Vikram739/Stellarr`](https://github.com/Vikram739/Stellarr) &nbsp;·&nbsp; [`stellarr.is-a.dev`](https://stellarr.is-a.dev)
+
+**EFLense-v1** · zero-backend AI pipeline for startup discovery. GitHub Actions cron + Supabase (pgvector) + free-tier LLMs (Gemini/Groq) + Next.js on Vercel. Runs for $0/month.
 <br/>
 [`github.com/Vikram739/EFLense-v1`](https://github.com/Vikram739/EFLense-v1)
-
-**Stellarr** · AI-powered job hunting OS. Same zero-backend pattern, four-table Supabase schema (jobs, startups, contacts, outreach).
-<br/>
-[`github.com/Vikram739/Stellarr`](https://github.com/Vikram739/Stellarr)
 
 <br/>
 
@@ -96,51 +104,13 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0E27,100:1B2350&height=90&section=header&text=OrbiNasaSense&fontSize=30&fontColor=E2E8F0&fontAlignY=40&desc=Spacecraft%20Orbital%20Watch%20System&descSize=14&descColor=94A3B8&descAlignY=68&animation=fadeIn" width="100%" alt="OrbiNasaSense - Spacecraft Orbital Watch System"/>
-
-<sub>**PROJECT 01**</sub>
-
-<img src="https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE" alt="Python"/>
-<img src="https://img.shields.io/badge/TensorFlow-1B2350?style=flat-square&logo=tensorflow&logoColor=22D3EE" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-1B2350?style=flat-square&logo=pytorch&logoColor=22D3EE" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/FastAPI-1B2350?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE" alt="Firebase"/>
-
-Real-time anomaly detection on NASA spacecraft telemetry, comparing LSTM, Transformer, and Isolation Forest models (Transformer came out on top). Redis-cached inference cut latency by 40%.
-
-<a href="https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27" alt="View Repository"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B2350,100:4338CA&height=90&section=header&text=CourseBid%20Exchange&fontSize=30&fontColor=E2E8F0&fontAlignY=40&desc=Real-Time%20Course%20Bidding%20Platform&descSize=14&descColor=94A3B8&descAlignY=68&animation=fadeIn" width="100%" alt="CourseBid Exchange - Real-Time Course Bidding Platform"/>
-
-<sub>**PROJECT 02**</sub>
-
-<img src="https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE" alt="React"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-1B2350?style=flat-square&logo=springboot&logoColor=22D3EE" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/AWS-1B2350?style=flat-square&logo=amazonaws&logoColor=22D3EE" alt="AWS"/>
-<img src="https://img.shields.io/badge/JWT%2FOAuth-1B2350?style=flat-square&logo=jsonwebtokens&logoColor=22D3EE" alt="JWT/OAuth"/>
-<img src="https://img.shields.io/badge/Redis-1B2350?style=flat-square&logo=redis&logoColor=22D3EE" alt="Redis"/>
-
-Course bidding platform with bidding credits, status tracking, and enrollment, supporting 1,500+ enrolled students. RBAC and data-partitioning enforce access policies. Redis-backed sessions hold sub-300ms latency under peak load. WebSocket notifications lifted bidding-window engagement by 45%.
-
-<a href="https://github.com/Shreyas191/course-bidding-system" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27" alt="View Repository"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4338CA,100:7C3AED&height=90&section=header&text=NYC%20Transit%20Hub&fontSize=30&fontColor=E2E8F0&fontAlignY=40&desc=Live%20MTA%20Transit%20Dashboard&descSize=14&descColor=E0D8FF&descAlignY=68&animation=fadeIn" width="100%" alt="NYC Transit Hub - Live MTA Transit Dashboard"/>
-
-<sub>**PROJECT 03**</sub>
-
-<img src="https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE" alt="React"/>
-<img src="https://img.shields.io/badge/Redis-1B2350?style=flat-square&logo=redis&logoColor=22D3EE" alt="Redis"/>
-<img src="https://img.shields.io/badge/SQLite-1B2350?style=flat-square&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Docker-1B2350?style=flat-square&logo=docker&logoColor=22D3EE" alt="Docker"/>
-
-Live MTA GTFS-RT integration with caching and scheduled refresh. A delay prediction model trained on historical MTA data holds RMSE under 2 minutes. Firebase-authenticated, Dockerized for consistent deployment.
-
-<a href="https://github.com/Shreyas191/nyc-transit-hub" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27" alt="View Repository"/></a>
+| # | Project | Stack | Highlights | Link |
+|:-:|---------|-------|------------|:----:|
+| **01** | **[OrbiNasaSense](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)**<br/><sub>Spacecraft Orbital Watch System</sub> | ![Python](https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE) ![TensorFlow](https://img.shields.io/badge/TF-1B2350?style=flat-square&logo=tensorflow&logoColor=22D3EE) ![PyTorch](https://img.shields.io/badge/PyTorch-1B2350?style=flat-square&logo=pytorch&logoColor=22D3EE) ![FastAPI](https://img.shields.io/badge/FastAPI-1B2350?style=flat-square&logo=fastapi&logoColor=22D3EE) ![Firebase](https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE) | Real-time anomaly detection on NASA spacecraft telemetry. LSTM vs Transformer vs Isolation Forest — Transformer wins. Redis-cached inference cuts latency **40%**. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry) |
+| **02** | **[CourseBid Exchange](https://github.com/Shreyas191/course-bidding-system)**<br/><sub>Real-Time Course Bidding Platform</sub> | ![React](https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE) ![Spring Boot](https://img.shields.io/badge/Spring-1B2350?style=flat-square&logo=springboot&logoColor=22D3EE) ![AWS](https://img.shields.io/badge/AWS-1B2350?style=flat-square&logo=amazonaws&logoColor=22D3EE) ![Redis](https://img.shields.io/badge/Redis-1B2350?style=flat-square&logo=redis&logoColor=22D3EE) ![JWT](https://img.shields.io/badge/JWT-1B2350?style=flat-square&logo=jsonwebtokens&logoColor=22D3EE) | Course bidding with credits, status tracking, RBAC. **1,500+ students**, **4,500+ concurrent users**. Sub-300ms latency under peak load. WebSocket notifications +**45%** bidding-window engagement. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Shreyas191/course-bidding-system) |
+| **03** | **[ZeroDrive](https://github.com/Vikram739/ZeroDrive)**<br/><sub>Unlimited Cloud Storage via Telegram</sub> | ![React](https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE) ![FastAPI](https://img.shields.io/badge/FastAPI-1B2350?style=flat-square&logo=fastapi&logoColor=22D3EE) ![Firebase](https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE) | Telegram bot as zero-cost storage backend. **5 FastAPI microservices**, Firebase auth + metadata. React+Vite+Tailwind frontend. LangChain/RAG AI service (port 8005) in progress. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/ZeroDrive) |
+| **04** | **[Stellarr](https://github.com/Vikram739/Stellarr)**<br/><sub>AI-Powered Job Hunting OS</sub> | ![Next.js](https://img.shields.io/badge/Next.js-1B2350?style=flat-square&logo=nextdotjs&logoColor=22D3EE) ![Supabase](https://img.shields.io/badge/Supabase-1B2350?style=flat-square&logo=supabase&logoColor=22D3EE) ![GH Actions](https://img.shields.io/badge/Actions-1B2350?style=flat-square&logo=githubactions&logoColor=22D3EE) | Zero-backend architecture. GitHub Actions cron scrapes + enriches job data into Supabase (pgvector). Four-table schema: jobs, startups, contacts, outreach. $0/month infra. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/Stellarr) [![Live](https://img.shields.io/badge/Live-F59E0B?style=flat-square&logo=vercel&logoColor=0A0E27)](https://stellarr.is-a.dev) |
+| **05** | **[EFLense-v1](https://github.com/Vikram739/EFLense-v1)**<br/><sub>Startup Discovery AI Pipeline</sub> | ![Next.js](https://img.shields.io/badge/Next.js-1B2350?style=flat-square&logo=nextdotjs&logoColor=22D3EE) ![Supabase](https://img.shields.io/badge/Supabase-1B2350?style=flat-square&logo=supabase&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE) | Zero-backend AI pipeline. GitHub Actions cron + Supabase pgvector + Gemini/Groq free-tier LLMs + Next.js on Vercel. No always-on server. Runs for **$0/month**. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/EFLense-v1) |
 
 </div>
 
@@ -150,12 +120,18 @@ Live MTA GTFS-RT integration with caching and scheduled refresh. A delay predict
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram739&layout=compact&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0" alt="Top languages" height="165"/>
+<a href="https://github.com/Vikram739">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" height="165"/>
+</a>
+<a href="https://github.com/Vikram739">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram739&layout=compact&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&hide=php&langs_count=8" alt="Top languages" height="165"/>
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Vikram739&hide_border=true&background=0A0E27&stroke=1B2350&ring=7C3AED&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Vikram739&hide_border=true&background=0A0E27&stroke=1B2350&ring=7C3AED&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub streak"/>
+</a>
 
 <br/><br/>
 
