@@ -38,8 +38,6 @@ I'm a software engineer working at the intersection of backend systems and appli
 
 Pursuing an MS in Computer Science at **NYU Tandon** (2027). Most of my recent work splits between production WordPress/Salesforce integrations by day and zero-backend AI side projects by night.
 
-Off the clock: probably reading WWE storylines like they're system architecture, or treating a skincare routine like an A/B test that needs more data.
-
 <br/>
 
 ## `$ ls -la tech_stack/`
