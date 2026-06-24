@@ -104,13 +104,64 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 
 <div align="center">
 
+### ✦ &nbsp; Currently Shipping &nbsp; ✦
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://img.shields.io/badge/🚀_ZERODRIVE-FEATURED-7C3AED?style=for-the-badge&labelColor=0A0E27" alt="ZeroDrive"/>
+</h3>
+
+**Unlimited cloud storage — powered by Telegram**
+
+Zero-cost storage backend via Telegram Bot API. 5 FastAPI microservices, Firebase auth + metadata layer, React+Vite+Tailwind frontend. LangChain/RAG AI service in progress.
+
+![React](https://img.shields.io/badge/React-0A0E27?style=flat-square&logo=react&logoColor=22D3EE)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0E27?style=flat-square&logo=fastapi&logoColor=22D3EE)
+![Firebase](https://img.shields.io/badge/Firebase-0A0E27?style=flat-square&logo=firebase&logoColor=22D3EE)
+![Python](https://img.shields.io/badge/Python-0A0E27?style=flat-square&logo=python&logoColor=22D3EE)
+![Docker](https://img.shields.io/badge/Docker-0A0E27?style=flat-square&logo=docker&logoColor=22D3EE)
+
+`5 microservices` &nbsp;·&nbsp; `$0 storage cost` &nbsp;·&nbsp; `AI layer WIP`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%E2%86%92-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27&labelColor=1B2350)](https://github.com/Vikram739/ZeroDrive)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://img.shields.io/badge/⭐_STELLARR-FEATURED-F59E0B?style=for-the-badge&labelColor=0A0E27" alt="Stellarr"/>
+</h3>
+
+**AI-powered job hunting OS — zero backend**
+
+GitHub Actions cron scrapes + enriches job data into Supabase (pgvector). Four-table schema: jobs, startups, contacts, outreach. Fully serverless, deployed on Vercel.
+
+![Next.js](https://img.shields.io/badge/Next.js-0A0E27?style=flat-square&logo=nextdotjs&logoColor=22D3EE)
+![Supabase](https://img.shields.io/badge/Supabase-0A0E27?style=flat-square&logo=supabase&logoColor=22D3EE)
+![GH Actions](https://img.shields.io/badge/Actions-0A0E27?style=flat-square&logo=githubactions&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0E27?style=flat-square&logo=typescript&logoColor=22D3EE)
+
+`pgvector` &nbsp;·&nbsp; `$0/month infra` &nbsp;·&nbsp; `live`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%E2%86%92-22D3EE?style=for-the-badge&logo=github&logoColor=0A0E27&labelColor=1B2350)](https://github.com/Vikram739/Stellarr)
+[![Live Site](https://img.shields.io/badge/Live%20Site-%E2%86%92-F59E0B?style=for-the-badge&logo=vercel&logoColor=0A0E27&labelColor=1B2350)](https://stellarr.is-a.dev)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ✦ &nbsp; More Projects &nbsp; ✦
+
 | # | Project | Stack | Highlights | Link |
 |:-:|---------|-------|------------|:----:|
-| **01** | **[OrbiNasaSense](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)**<br/><sub>Spacecraft Orbital Watch System</sub> | ![Python](https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE) ![TensorFlow](https://img.shields.io/badge/TF-1B2350?style=flat-square&logo=tensorflow&logoColor=22D3EE) ![PyTorch](https://img.shields.io/badge/PyTorch-1B2350?style=flat-square&logo=pytorch&logoColor=22D3EE) ![FastAPI](https://img.shields.io/badge/FastAPI-1B2350?style=flat-square&logo=fastapi&logoColor=22D3EE) ![Firebase](https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE) | Real-time anomaly detection on NASA spacecraft telemetry. LSTM vs Transformer vs Isolation Forest — Transformer wins. Redis-cached inference cuts latency **40%**. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry) |
-| **02** | **[CourseBid Exchange](https://github.com/Shreyas191/course-bidding-system)**<br/><sub>Real-Time Course Bidding Platform</sub> | ![React](https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE) ![Spring Boot](https://img.shields.io/badge/Spring-1B2350?style=flat-square&logo=springboot&logoColor=22D3EE) ![AWS](https://img.shields.io/badge/AWS-1B2350?style=flat-square&logo=amazonaws&logoColor=22D3EE) ![Redis](https://img.shields.io/badge/Redis-1B2350?style=flat-square&logo=redis&logoColor=22D3EE) ![JWT](https://img.shields.io/badge/JWT-1B2350?style=flat-square&logo=jsonwebtokens&logoColor=22D3EE) | Course bidding with credits, status tracking, RBAC. **1,500+ students**, **4,500+ concurrent users**. Sub-300ms latency under peak load. WebSocket notifications +**45%** bidding-window engagement. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Shreyas191/course-bidding-system) |
-| **03** | **[ZeroDrive](https://github.com/Vikram739/ZeroDrive)**<br/><sub>Unlimited Cloud Storage via Telegram</sub> | ![React](https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE) ![FastAPI](https://img.shields.io/badge/FastAPI-1B2350?style=flat-square&logo=fastapi&logoColor=22D3EE) ![Firebase](https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE) | Telegram bot as zero-cost storage backend. **5 FastAPI microservices**, Firebase auth + metadata. React+Vite+Tailwind frontend. LangChain/RAG AI service (port 8005) in progress. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/ZeroDrive) |
-| **04** | **[Stellarr](https://github.com/Vikram739/Stellarr)**<br/><sub>AI-Powered Job Hunting OS</sub> | ![Next.js](https://img.shields.io/badge/Next.js-1B2350?style=flat-square&logo=nextdotjs&logoColor=22D3EE) ![Supabase](https://img.shields.io/badge/Supabase-1B2350?style=flat-square&logo=supabase&logoColor=22D3EE) ![GH Actions](https://img.shields.io/badge/Actions-1B2350?style=flat-square&logo=githubactions&logoColor=22D3EE) | Zero-backend architecture. GitHub Actions cron scrapes + enriches job data into Supabase (pgvector). Four-table schema: jobs, startups, contacts, outreach. $0/month infra. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/Stellarr) [![Live](https://img.shields.io/badge/Live-F59E0B?style=flat-square&logo=vercel&logoColor=0A0E27)](https://stellarr.is-a.dev) |
-| **05** | **[EFLense-v1](https://github.com/Vikram739/EFLense-v1)**<br/><sub>Startup Discovery AI Pipeline</sub> | ![Next.js](https://img.shields.io/badge/Next.js-1B2350?style=flat-square&logo=nextdotjs&logoColor=22D3EE) ![Supabase](https://img.shields.io/badge/Supabase-1B2350?style=flat-square&logo=supabase&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE) | Zero-backend AI pipeline. GitHub Actions cron + Supabase pgvector + Gemini/Groq free-tier LLMs + Next.js on Vercel. No always-on server. Runs for **$0/month**. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/EFLense-v1) |
+| **01** | **[EFLense-v1](https://github.com/Vikram739/EFLense-v1)**<br/><sub>Startup Discovery AI Pipeline</sub> | ![Next.js](https://img.shields.io/badge/Next.js-1B2350?style=flat-square&logo=nextdotjs&logoColor=22D3EE) ![Supabase](https://img.shields.io/badge/Supabase-1B2350?style=flat-square&logo=supabase&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE) | Zero-backend AI pipeline. GitHub Actions cron + Supabase pgvector + Gemini/Groq free-tier LLMs + Next.js on Vercel. No always-on server. Runs for **$0/month**. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/EFLense-v1) |
+| **02** | **[OrbiNasaSense](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)**<br/><sub>Spacecraft Orbital Watch System</sub> | ![Python](https://img.shields.io/badge/Python-1B2350?style=flat-square&logo=python&logoColor=22D3EE) ![TensorFlow](https://img.shields.io/badge/TF-1B2350?style=flat-square&logo=tensorflow&logoColor=22D3EE) ![PyTorch](https://img.shields.io/badge/PyTorch-1B2350?style=flat-square&logo=pytorch&logoColor=22D3EE) ![FastAPI](https://img.shields.io/badge/FastAPI-1B2350?style=flat-square&logo=fastapi&logoColor=22D3EE) ![Firebase](https://img.shields.io/badge/Firebase-1B2350?style=flat-square&logo=firebase&logoColor=22D3EE) | Real-time anomaly detection on NASA spacecraft telemetry. LSTM vs Transformer vs Isolation Forest — Transformer wins. Redis-cached inference cuts latency **40%**. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry) |
+| **03** | **[CourseBid Exchange](https://github.com/Shreyas191/course-bidding-system)**<br/><sub>Real-Time Course Bidding Platform</sub> | ![React](https://img.shields.io/badge/React-1B2350?style=flat-square&logo=react&logoColor=22D3EE) ![Spring Boot](https://img.shields.io/badge/Spring-1B2350?style=flat-square&logo=springboot&logoColor=22D3EE) ![AWS](https://img.shields.io/badge/AWS-1B2350?style=flat-square&logo=amazonaws&logoColor=22D3EE) ![Redis](https://img.shields.io/badge/Redis-1B2350?style=flat-square&logo=redis&logoColor=22D3EE) ![JWT](https://img.shields.io/badge/JWT-1B2350?style=flat-square&logo=jsonwebtokens&logoColor=22D3EE) | Course bidding with credits, status tracking, RBAC. **1,500+ students**, **4,500+ concurrent users**. Sub-300ms latency under peak load. WebSocket notifications +**45%** engagement. | [![Repo](https://img.shields.io/badge/Repo-22D3EE?style=flat-square&logo=github&logoColor=0A0E27)](https://github.com/Shreyas191/course-bidding-system) |
 
 </div>
 
@@ -129,8 +180,8 @@ Off the clock: probably reading WWE storylines like they're system architecture,
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Vikram739&hide_border=true&background=0A0E27&stroke=1B2350&ring=7C3AED&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub streak"/>
+<a href="https://streak-stats.demolab.com/?user=Vikram739&hide_border=true&background=0A0E27&stroke=1B2350&ring=7C3AED&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" target="_blank">
+  <img src="https://streak-stats.demolab.com/?user=Vikram739&hide_border=true&background=0A0E27&stroke=1B2350&ring=7C3AED&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
