@@ -36,7 +36,7 @@
 
 I'm a software engineering student working at the intersection of backend systems and applied AI. At **NYU's Endless Frontier Labs** I build agentic LLM pipelines and internal tooling that 30+ early-stage startups run on. Before that, I shipped payment infrastructure at **Worldline Global Services** and GPS tracking systems at **Maverick Labs**.
 
-Pursuing an MS in Computer Science at **New York University** (2027). Most of my recent work splits between production WordPress/Salesforce integrations by day and zero-backend AI side projects by night.
+Pursuing an MS in Computer Science at **New York University** (2027). Most of my recent work splits between production VC Sourcing AI integrations by day and zero-backend AI side projects by night.
 
 <br/>
 
