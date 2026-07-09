@@ -194,7 +194,7 @@ GitHub Actions cron scrapes + enriches job data into Supabase (pgvector). Four-t
 
 <div align="center">
 
-📍 New York, NY &nbsp;·&nbsp; 📱 +1 (347) 822-2120 &nbsp;·&nbsp; 📧 [vrm9190@nyu.edu](mailto:vrm9190@nyu.edu) &nbsp;·&nbsp; 🌐 [vikrammarkali.me](https://vikrammarkali.me)
+📍 New York, NY &nbsp;·&nbsp; 📱 +1 (347) 822-2120 &nbsp;·&nbsp; 📧 [vrm9190@nyu.edu](mailto:vrm9190@nyu.edu) &nbsp;·&nbsp; 🌐 [vikrammarkali.com](https://vikrammarkali.com)
 
 <br/>
 
