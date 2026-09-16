@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1B2350?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
-<a href="https://vikrammarkali.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1B2350?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1B2350?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/></a>
 <a href="mailto:vrm9190@nyu.edu"><img src="https://img.shields.io/badge/Email-1B2350?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
 <a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1B2350?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram"/></a>
 <a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1B2350?style=for-the-badge&logo=facebook&logoColor=22D3EE" alt="Facebook"/></a>
