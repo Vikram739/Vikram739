@@ -4,47 +4,25 @@
 
 <br/>
 
-**MS CS @ NYU Tandon, 2027 · SWE Intern @ NYU Endless Frontier Labs · Building ZeroDrive & Stellarr**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=MS+CS+%40+NYU+Tandon%2C+2027;SWE+Intern+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr" alt="typing"/>
 
 <br/>
 
 `Open to SWE internships — Fall 2026`
 
-</div>
+<br/><br/>
 
-<br/>
-
-## About
-
-Software engineer working at the intersection of backend systems and applied AI. At **NYU Endless Frontier Labs**, I build agentic LLM pipelines and internal tooling that 30+ early-stage startups run on. Previously shipped payment infrastructure at **Worldline Global Services** and GPS tracking systems at **Maverick Labs**.
-
-Most of my current work splits between production VC-sourcing AI integrations by day and zero-backend AI side projects by night.
-
-<br/>
-
-## Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,php&theme=dark" />
-
-**Backend & AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,langchain&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" />
-
-**Data & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,aws,docker&theme=dark" />
-
-**Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,githubactions,postman,vscode&theme=dark" />
+<!-- ===================== CAREER STATS ===================== -->
+<table>
+<tr>
+<td align="center" width="16%"><h2>3.83</h2>GPA</td>
+<td align="center" width="16%"><h2>2027</h2>MS CS Grad</td>
+<td align="center" width="16%"><h2>30+</h2>Startups Powered</td>
+<td align="center" width="16%"><h2>3</h2>Industry Internships</td>
+<td align="center" width="18%"><h2>4.5K+</h2>Concurrent Users Served</td>
+<td align="center" width="18%"><h2>40%</h2>Latency Cut Shipped</td>
+</tr>
+</table>
 
 </div>
 
@@ -62,6 +40,41 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <br/>
 
+## About
+
+Software engineer working at the intersection of backend systems and applied AI. At **NYU Endless Frontier Labs**, I build agentic LLM pipelines and internal tooling that 30+ early-stage startups run on. Previously shipped payment infrastructure at **Worldline Global Services** and GPS tracking systems at **Maverick Labs**.
+
+Most of my current work splits between production VC-sourcing AI integrations by day and zero-backend AI side projects by night.
+
+<br/>
+
+## Stack
+
+<table align="center">
+<tr>
+<td align="right"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,php&theme=dark" /></td>
+</tr>
+<tr>
+<td align="right"><b>Backend & AI</b></td>
+<td><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,langchain&theme=dark" /></td>
+</tr>
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" /></td>
+</tr>
+<tr>
+<td align="right"><b>Data & Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,aws,docker&theme=dark" /></td>
+</tr>
+<tr>
+<td align="right"><b>Tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,githubactions,postman,vscode&theme=dark" /></td>
+</tr>
+</table>
+
+<br/>
+
 ## Activity
 
 <div align="center">
@@ -75,7 +88,7 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 </div>
 
-> `github-readme-stats` and `activity-graph` above read from a shared public demo server that regularly hits GitHub's API rate limit — this is a known, ongoing issue on the tool's own repo, not a bug in this file. Fix that lasts: deploy your own free instance ([one-click Vercel deploy guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance), ~5 min, uses your own token so it never depends on other people's traffic) and swap the URL. Say the word and I'll walk you through it.
+> `github-readme-stats` and `activity-graph` read from a shared public demo server that regularly hits GitHub's API rate limit — a known, ongoing issue on the tool's own repo. Everything else in this file is static (skill icons, career stats, banners) and won't break the same way.
 
 <br/>
 
