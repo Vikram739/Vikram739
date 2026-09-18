@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vikram%20Markali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Backend%20%26%20Agentic%20AI%20Systems&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vikram%20Markali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20Backend%20%26%20Agentic%20AI%20Systems&descAlignY=58&descSize=17"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=MS+CS+%40+NYU+Tandon%2C+2027;SWE+Intern+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr" alt="typing"/>
+**MS CS @ NYU Tandon, 2027 · SWE Intern @ NYU Endless Frontier Labs · Building ZeroDrive & Stellarr**
 
 <br/>
 
@@ -75,7 +75,7 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 </div>
 
-> These three cards are generated live by third-party services (`github-readme-stats`, `streak-stats`, `activity-graph`) that read GitHub's API through a shared public instance. That instance gets rate-limited/goes down fairly often — it's a known, ongoing issue on their repos, not something wrong with this file. If a card shows broken on your profile: hard-refresh (Ctrl/Cmd+Shift+R), wait a few minutes and reload, or as a permanent fix, deploy your own free instance of the widget on Vercel and swap the URL in — then it never depends on anyone else's traffic.
+> `github-readme-stats` and `activity-graph` above read from a shared public demo server that regularly hits GitHub's API rate limit — this is a known, ongoing issue on the tool's own repo, not a bug in this file. Fix that lasts: deploy your own free instance ([one-click Vercel deploy guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance), ~5 min, uses your own token so it never depends on other people's traffic) and swap the URL. Say the word and I'll walk you through it.
 
 <br/>
 
