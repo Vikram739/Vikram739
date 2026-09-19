@@ -1,30 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vikram%20Markali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20Backend%20%26%20Agentic%20AI%20Systems&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:4338CA,100:22D3EE&height=4&section=header" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=MS+CS+%40+NYU+Tandon%2C+2027;SWE+Intern+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr" alt="typing"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=VIKRAM%20MARKALI&fontSize=56&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&height=150&desc=Software%20Engineer%20%7C%20Builder%20of%20Agentic%20Systems&descSize=16&descAlignY=66&descColor=22D3EE"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=VIKRAM%20MARKALI&fontSize=56&fontColor=151B3B&fontAlignY=42&animation=fadeIn&height=150&desc=Software%20Engineer%20%7C%20Builder%20of%20Agentic%20Systems&descSize=16&descAlignY=66&descColor=4338CA"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=VIKRAM%20MARKALI&fontSize=56&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&height=150&desc=Software%20Engineer%20%7C%20Builder%20of%20Agentic%20Systems&descSize=16&descAlignY=66&descColor=22D3EE" alt="Vikram Markali"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr;Agentic+AI+%7C+Full-Stack+%7C+Backend+Systems"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=4338CA&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr;Agentic+AI+%7C+Full-Stack+%7C+Backend+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=MS+Computer+Science+%40+NYU%2C+2027;Software+Engineer+%40+NYU+Endless+Frontier+Labs;Building+ZeroDrive+%26+Stellarr;Agentic+AI+%7C+Full-Stack+%7C+Backend+Systems" alt="Typing animation"/>
+</picture>
 
 <br/>
 
-`Open to SWE internships — Fall 2026`
+<!-- ===================== REAL ICONS — bare, no background, jsDelivr CDN ===================== -->
+<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vrm9190@nyu.edu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Vikram739" target="_blank"><img src="https://cdn.simpleicons.org/github/E2E8F0" height="30"/></a>
 
 <br/><br/>
 
-<!-- ===================== CAREER STATS ===================== -->
-<table>
-<tr>
-<td align="center" width="16%"><h2>3.83</h2>GPA</td>
-<td align="center" width="16%"><h2>2027</h2>MS CS Grad</td>
-<td align="center" width="16%"><h2>30+</h2>Startups Powered</td>
-<td align="center" width="16%"><h2>3</h2>Industry Internships</td>
-<td align="center" width="18%"><h2>4.5K+</h2>Concurrent Users Served</td>
-<td align="center" width="18%"><h2>40%</h2>Latency Cut Shipped</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🚀%20OPEN%20TO-SWE%20INTERNSHIPS%20SPRING%202027-F59E0B?style=for-the-badge&labelColor=1B2350" alt="Open to internships"/>
 
 </div>
+
+<br/>
+
+## About
+
+Software engineer working at the intersection of backend systems and applied AI. At **NYU Endless Frontier Labs**, I build agentic LLM pipelines and internal tooling that 30+ early-stage startups run on. Previously shipped payment infrastructure at **Worldline Global Services** and GPS tracking systems at **Maverick Labs**.
+
+Most of my current work splits between production VC-sourcing AI integrations by day and zero-backend AI side projects by night.
+
+- **3.83** GPA
+- **2027** MS CS Graduate
+- **30+** Startups powered by tooling built at EFL
+- **3** Industry internships (Worldline, Visnity AI, Maverick Labs)
+- **4.5K+** Concurrent users served (CourseBid Exchange)
+- **40%** Latency cut shipped (OrbiNasaSense)
+
+<br/>
+
+## Stack
+
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,php&theme=dark" /><br/><img src="https://dummyimage.com/860x2/0d1117/0d1117.png" width="860" height="2" alt=""/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend & AI</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,langchain&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Data & Infra</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,aws,docker&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tooling</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=git,githubactions,postman,vscode&theme=dark" /></td>
+</tr>
+</table>
 
 <br/>
 
@@ -40,51 +88,16 @@
 
 <br/>
 
-## About
-
-Software engineer working at the intersection of backend systems and applied AI. At **NYU Endless Frontier Labs**, I build agentic LLM pipelines and internal tooling that 30+ early-stage startups run on. Previously shipped payment infrastructure at **Worldline Global Services** and GPS tracking systems at **Maverick Labs**.
-
-Most of my current work splits between production VC-sourcing AI integrations by day and zero-backend AI side projects by night.
-
-<br/>
-
-## Stack
-
-<table align="center">
-<tr>
-<td align="right"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,php&theme=dark" /></td>
-</tr>
-<tr>
-<td align="right"><b>Backend & AI</b></td>
-<td><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,langchain&theme=dark" /></td>
-</tr>
-<tr>
-<td align="right"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" /></td>
-</tr>
-<tr>
-<td align="right"><b>Data & Infra</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,aws,docker&theme=dark" /></td>
-</tr>
-<tr>
-<td align="right"><b>Tooling</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,githubactions,postman,vscode&theme=dark" /></td>
-</tr>
-</table>
-
-<br/>
-
 ## Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&rank_icon=github&count_private=true&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram739&hide_border=true&background=0d1117&stroke=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github&count_private=true&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram739&hide_border=true&background=0d1117&stroke=0d1117&ring=22D3EE&fire=22D3EE&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikram739&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity&title_color=8B5CF6&text_color=c9d1d9&cache_seconds=86400"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikram739&bg_color=0d1117&color=22D3EE&line=22D3EE&point=ffffff&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Activity&title_color=22D3EE&text_color=c9d1d9&cache_seconds=86400"/>
 
 </div>
 
@@ -96,12 +109,12 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>&nbsp;
-<a href="https://vikrammarkali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>&nbsp;
-<a href="mailto:vrm9190@nyu.edu"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>&nbsp;
-<a href="https://github.com/Vikram739" target="_blank"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>&nbsp;
-<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" height="40"/></a>&nbsp;
-<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://img.shields.io/badge/Facebook-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white" height="40"/></a>
+<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vrm9190@nyu.edu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Vikram739" target="_blank"><img src="https://cdn.simpleicons.org/github/E2E8F0" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" height="32"/></a>
 
 <br/><br/>
 
@@ -113,7 +126,7 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vikram739&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Vikram739&label=Profile%20views&color=22D3EE&style=flat" alt="Profile views"/>
 
 <br/><br/>
 
