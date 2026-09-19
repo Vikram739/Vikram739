@@ -39,11 +39,11 @@ Software engineer working at the intersection of backend systems and applied AI.
 
 Most of my current work splits between production VC-sourcing AI integrations by day and zero-backend AI side projects by night.
 
-🎓 Pursuing **MS in Computer Science at New York University** (GPA 3.83, Aug 2025 to May 2027)
-💼 **1+ years** of industry experience - Software Engineer at **Worldline Global Services**, plus internships at **Maverick Labs** and **Visnity AI**
-🤖 Building **agentic AI systems** at NYU Endless Frontier Labs, including LangChain RAG pipelines and internal tooling used by 30+ startups
-💡 Passionate about scalable backend systems, applied LLMs, and full-stack engineering
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/vikram-markali) • [Email](mailto:vrm9190@nyu.edu) • [Portfolio](https://vikrammarkali.com)
+- 🎓 Pursuing **MS in Computer Science at New York University** (GPA 3.83, Aug 2025 to May 2027)
+- 💼 **1+ years** of industry experience - Software Engineer at **Worldline Global Services**, plus internships at **Maverick Labs** and **Visnity AI**
+- 🤖 Building **agentic AI systems** at NYU Endless Frontier Labs, including LangChain RAG pipelines and internal tooling used by 30+ startups
+- 💡 Passionate about scalable backend systems, applied LLMs, and full-stack engineering
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/vikram-markali) • [Email](mailto:vrm9190@nyu.edu) • [Portfolio](https://vikrammarkali.com)
 
 <br/>
 
@@ -109,29 +109,44 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 ## Stack
 
-<div align="center">
-
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java" height="22"/> Java &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" height="22"/> Python &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="22"/> TypeScript &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="22"/> JavaScript &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="22"/> C++ &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/php/8892BF" height="22"/> PHP
 
 **Backend & AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,langchain&theme=dark" />
+<img src="https://cdn.simpleicons.org/springboot/6DB33F" height="22"/> Spring Boot &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="22"/> FastAPI &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="22"/> Node.js &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="22"/> LangChain
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="22"/> React &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/E2E8F0" height="22"/> Next.js &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/angular/DD0031" height="22"/> Angular &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="22"/> Tailwind CSS
 
 **Data & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,aws,docker&theme=dark" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="22"/> PostgreSQL &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="22"/> MySQL &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="22"/> Redis &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="22"/> Supabase &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" height="22"/> AWS &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="22"/> Docker
 
 **Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,githubactions,postman,vscode&theme=dark" />
-
-</div>
+<img src="https://cdn.simpleicons.org/git/F05032" height="22"/> Git &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="22"/> GitHub Actions &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="22"/> Postman &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="22"/> VS Code
 
 <br/>
 
@@ -151,15 +166,9 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram739&hide_border=true&background=0d1117&stroke=0d1117&ring=22D3EE&fire=22D3EE&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vikram739&theme=algolia&no-frame=true&row=1&column=6&margin-w=6&margin-h=6" height="110"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram739&hide_border=true&background=0d1117&stroke=0d1117&ring=FF6B35&fire=FFB800&currStreakLabel=FF6B35&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=12" height="165"/>
 
 </div>
-
-> Dropped `github-readme-stats` and `activity-graph`, both read from a shared demo server that has been rate-limited or down in every screenshot so far. The streak widget above uses a different host and has rendered correctly every time; the trophy row is a separate, independent service.
 
 <br/>
 
@@ -175,7 +184,7 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <br/><br/>
 
-📍 New York, NY &nbsp;·&nbsp; 📱 +1 (347) 822-2120
+📍 New York, NY &nbsp;·&nbsp; 📧 vrm9190@nyu.edu
 
 </div>
 
