@@ -18,13 +18,13 @@
 
 <br/>
 
-<!-- ===================== REAL ICONS — bare, no background, brand-colored ===================== -->
-<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:vrm9190@nyu.edu"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Vikram739" target="_blank"><img src="https://cdn.simpleicons.org/github/E2E8F0" height="30"/></a>
+<!-- ===================== SOCIALS - same source/technique as Stack icons ===================== -->
+<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>&nbsp;&nbsp;
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="32"/></a>&nbsp;&nbsp;
+<a href="mailto:vrm9190@nyu.edu"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="32"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Vikram739" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="32"/></a>
 
 <br/><br/>
 
@@ -40,51 +40,93 @@ Software engineer working at the intersection of backend systems and applied AI.
 
 Most of my current work splits between production VC-sourcing AI integrations by day and zero-backend AI side projects by night.
 
-- **3.83** GPA
-- **2027** MS CS Graduate
-- **30+** Startups powered by tooling built at EFL
-- **3** Industry internships (Worldline, Visnity AI, Maverick Labs)
-- **4.5K+** Concurrent users served (CourseBid Exchange)
-- **40%** Latency cut shipped (OrbiNasaSense)
+**Education**
+- New York University, MS in Computer Science, GPA 3.83 (Aug 2025 to May 2027)
+- University of Pune (SPPU), BE in Information Technology, GPA 3.82 (Aug 2021 to Jun 2024)
+
+<br/>
+
+## Experience
+
+**NYU's Endless Frontier Labs (EFL)** - Software Engineer Intern
+New York, USA · Apr 2026 to Present
+- Ship agentic AI tools and internal platforms to production for 30+ startup teams.
+- Build LangChain RAG pipelines that extract structured insights from messy founder and startup data.
+- Debug and maintain backend data pipelines, cutting manual review time by 45%.
+
+**Visnity AI** - Freelance Software Engineer
+New York, USA (Remote) · Aug 2025 to Dec 2025
+- Founded and built an AI-powered job-matching platform end to end using Python, FastAPI, and PostgreSQL.
+- Structured messy candidate data into clean, queryable database records.
+- Built a LangChain LLM pipeline to extract resume insights, boosting match accuracy by 38%.
+
+**Worldline Global Services** - Software Engineer
+Pune, India · Oct 2024 to Jul 2025
+- Architected 15+ RESTful APIs using Spring Boot for financial platform and transaction integrations.
+- Engineered payment microservices processing 10,000+ TPS daily at 99.9% uptime.
+- Debugged and tested distributed financial systems, driving Agile sprints with zero-defect releases.
+
+**Worldline Global Services** - Development Intern
+Pune, India · Jun 2024 to Sep 2024
+- Built full-stack features using Java, Spring MVC, and Angular on live financial data systems.
+- Optimized SQL queries and auth flows, improving page load performance by 25%.
+
+**Maverick Labs** - Software Engineer Intern
+Pune, India · May 2023 to May 2024
+- Built real-time GPS tracking APIs in Java for fleet products serving 4,500+ concurrent users.
+- Optimized PostgreSQL queries and Redis caching, cutting data latency by 50%.
 
 <br/>
 
 ## Stack
 
-<table>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,php&theme=dark" /><br/><img src="https://dummyimage.com/860x2/0d1117/0d1117.png" width="860" height="2" alt=""/></td>
-</tr>
-<tr>
-<td align="center"><b>Backend & AI</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,langchain&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Data & Infra</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,aws,docker&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>Tooling</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=git,githubactions,postman,vscode&theme=dark" /></td>
-</tr>
-</table>
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,php&theme=dark" />
+
+**Backend & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,langchain&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" />
+
+**Data & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,aws,docker&theme=dark" />
+
+**Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,githubactions,postman,vscode&theme=dark" />
+
+</div>
 
 <br/>
 
 ## Projects
 
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **[ZeroDrive](https://github.com/Vikram739/ZeroDrive)** | Unlimited cloud storage using the Telegram Bot API as a zero-cost storage backend. 5 FastAPI microservices, Firebase auth + metadata layer. | `React` `Vite` `FastAPI` `Firebase` `Docker` | [Repo →](https://github.com/Vikram739/ZeroDrive) |
-| **[Stellarr](https://github.com/Vikram739/Stellarr)** | AI job-hunting OS with zero always-on backend. GitHub Actions cron enriches jobs into Supabase pgvector across a 4-table schema (jobs, startups, contacts, outreach). | `Next.js` `Supabase` `pgvector` `GH Actions` | [Repo →](https://github.com/Vikram739/Stellarr) · [Live →](https://stellarr.is-a.dev) |
-| **[EFLense-v1](https://github.com/Vikram739/EFLense-v1)** | Zero-backend AI pipeline for startup discovery — cron jobs + Supabase pgvector + free-tier LLMs (Gemini/Groq), deployed on Vercel for $0/month. | `Next.js` `Supabase` `Python` | [Repo →](https://github.com/Vikram739/EFLense-v1) |
-| **[OrbiNasaSense](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)** | Real-time anomaly detection on NASA spacecraft telemetry. Compared LSTM, Transformer, and Isolation Forest — Transformer won. Redis-cached inference cut latency 40%. | `Python` `PyTorch` `TensorFlow` `FastAPI` | [Repo →](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry) |
-| **[CourseBid Exchange](https://github.com/Shreyas191/course-bidding-system)** | Real-time course bidding platform with credits, RBAC, and status tracking. Handled 1,500+ students and 4,500+ concurrent users at sub-300ms latency. | `React` `Spring Boot` `AWS` `Redis` `JWT` | [Repo →](https://github.com/Shreyas191/course-bidding-system) |
+**ZeroDrive** `React` `Vite` `FastAPI` `Firebase` `Docker`
+Unlimited cloud storage using the Telegram Bot API as a zero-cost storage backend. 5 FastAPI microservices, Firebase auth and metadata layer.
+[Repo](https://github.com/Vikram739/ZeroDrive)
+
+**Stellarr** `Next.js` `Supabase` `pgvector` `GH Actions`
+AI job-hunting OS with zero always-on backend. GitHub Actions cron enriches jobs into Supabase pgvector across a 4-table schema (jobs, startups, contacts, outreach).
+[Repo](https://github.com/Vikram739/Stellarr) · [Live](https://stellarr.is-a.dev)
+
+**EFLense-v1** `Python` `LangChain` `LangGraph` `Supabase` `pgvector` `Next.js`
+Autonomous multi-agent pipeline extracting insights from unstructured startup data. RAG-based classification agents clean and structure 25 to 30 startup records daily, running on automated GitHub Actions workflows.
+[Repo](https://github.com/Vikram739/EFLense-v1)
+
+**CourseBid Exchange** `React` `Spring Boot` `Spring AI` `AWS` `JWT/OAuth 2.0` `Redis`
+Full-stack course bidding platform integrating PostgreSQL with a Spring AI powered data pipeline, secured via JWT/OAuth 2.0, with a Spring AI RAG chatbot for support. Sustains 1,500+ students and 4,500+ concurrent users reliably.
+[Repo](https://github.com/Shreyas191/course-bidding-system)
+
+**OrbiNasaSense** `Python` `PyTorch` `TensorFlow` `FastAPI` `Firebase`
+Real-time anomaly detection pipeline for spacecraft telemetry. Benchmarked LSTM, Transformer, and Isolation Forest for detection accuracy; Transformer won, with Redis-cached inference cutting latency 40%.
+[Repo](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)
 
 <br/>
 
@@ -92,16 +134,15 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vikram739&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github&count_private=true&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram739&hide_border=true&background=0d1117&stroke=0d1117&ring=22D3EE&fire=22D3EE&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikram739&bg_color=0d1117&color=22D3EE&line=22D3EE&point=ffffff&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Activity&title_color=22D3EE&text_color=c9d1d9&cache_seconds=86400"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vikram739&theme=algolia&no-frame=true&row=1&column=6&margin-w=6&margin-h=6" height="110"/>
 
 </div>
 
-> `github-readme-stats` and `activity-graph` read from a shared public demo server that regularly hits GitHub's API rate limit — a known, ongoing issue on the tool's own repo. Everything else in this file is static (skill icons, career stats, banners) and won't break the same way.
+> Dropped `github-readme-stats` and `activity-graph`, both read from a shared demo server that has been rate-limited or down in every screenshot so far. The streak widget above uses a different host and has rendered correctly every time; the trophy row is a separate, independent service.
 
 <br/>
 
@@ -109,12 +150,12 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:vrm9190@nyu.edu"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Vikram739" target="_blank"><img src="https://cdn.simpleicons.org/github/E2E8F0" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="32"/></a>
+<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="34"/></a>&nbsp;&nbsp;
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="34"/></a>&nbsp;&nbsp;
+<a href="mailto:vrm9190@nyu.edu"><img src="https://skillicons.dev/icons?i=gmail" height="34"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Vikram739" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="34"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="34"/></a>
 
 <br/><br/>
 
