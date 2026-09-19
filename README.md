@@ -33,21 +33,25 @@
 
 <br/>
 
-## About
+**About**
+
+---
 
 Software engineer working at the intersection of backend systems and applied AI. At **NYU Endless Frontier Labs**, I build agentic LLM pipelines and internal tooling that 30+ early-stage startups run on. Previously shipped payment infrastructure at **Worldline Global Services** and GPS tracking systems at **Maverick Labs**.
 
 Most of my current work splits between production VC-sourcing AI integrations by day and zero-backend AI side projects by night.
 
-- 🎓 Pursuing **MS in Computer Science at New York University** (GPA 3.83, Aug 2025 to May 2027)
-- 💼 **1+ years** of industry experience - Software Engineer at **Worldline Global Services**, plus internships at **Maverick Labs** and **Visnity AI**
-- 🤖 Building **agentic AI systems** at NYU Endless Frontier Labs, including LangChain RAG pipelines and internal tooling used by 30+ startups
-- 💡 Passionate about scalable backend systems, applied LLMs, and full-stack engineering
+- 🎓 Pursuing MS in Computer Science at New York University, GPA 3.83, graduating May 2027
+- 💼 1+ years experience: Software Engineer at Worldline, plus internships at Maverick Labs and Visnity AI
+- 🤖 Building agentic AI systems and LangChain pipelines at NYU Labs, used by 30+ startups
+- 💡 Passionate about scalable backend systems, applied LLMs, agentic pipelines, and full-stack engineering
 - 📫 Connect: [LinkedIn](https://www.linkedin.com/in/vikram-markali) • [Email](mailto:vrm9190@nyu.edu) • [Portfolio](https://vikrammarkali.com)
 
 <br/>
 
-## Experience
+**Experience**
+
+---
 
 ### 🚀 Software Engineer Intern - *NYU's Endless Frontier Labs (EFL)*
 
@@ -107,13 +111,17 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <br/>
 
-## Stack
+**Stack**
+
+---
 
 <img src="stack.svg" width="100%"/>
 
 <br/>
 
-## Projects
+**Projects**
+
+---
 
 | Project | Timeline | Description | Stack |
 |---|---|---|---|
@@ -125,7 +133,9 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <br/>
 
-## Activity
+**Activity**
+
+---
 
 <div align="center">
 
@@ -135,7 +145,9 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <br/>
 
-## Connect
+**Connect**
+
+---
 
 <div align="center">
 
