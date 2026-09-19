@@ -18,13 +18,12 @@
 
 <br/>
 
-<!-- ===================== SOCIALS - same source/technique as Stack icons ===================== -->
+<!-- ===================== SOCIALS - LinkedIn, Gmail, Instagram, Facebook, Portfolio last, GitHub removed ===================== -->
 <a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>&nbsp;&nbsp;
-<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="32"/></a>&nbsp;&nbsp;
 <a href="mailto:vrm9190@nyu.edu"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="32"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Vikram739" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="32"/></a>
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="32"/></a>
 
 <br/><br/>
 
@@ -40,41 +39,71 @@ Software engineer working at the intersection of backend systems and applied AI.
 
 Most of my current work splits between production VC-sourcing AI integrations by day and zero-backend AI side projects by night.
 
-**Education**
-- New York University, MS in Computer Science, GPA 3.83 (Aug 2025 to May 2027)
-- University of Pune (SPPU), BE in Information Technology, GPA 3.82 (Aug 2021 to Jun 2024)
+🎓 Pursuing **MS in Computer Science at New York University** (GPA 3.83, Aug 2025 to May 2027)
+💼 **1+ years** of industry experience - Software Engineer at **Worldline Global Services**, plus internships at **Maverick Labs** and **Visnity AI**
+🤖 Building **agentic AI systems** at NYU Endless Frontier Labs, including LangChain RAG pipelines and internal tooling used by 30+ startups
+💡 Passionate about scalable backend systems, applied LLMs, and full-stack engineering
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/vikram-markali) • [Email](mailto:vrm9190@nyu.edu) • [Portfolio](https://vikrammarkali.com)
 
 <br/>
 
 ## Experience
 
-**NYU's Endless Frontier Labs (EFL)** - Software Engineer Intern
-New York, USA · Apr 2026 to Present
-- Ship agentic AI tools and internal platforms to production for 30+ startup teams.
-- Build LangChain RAG pipelines that extract structured insights from messy founder and startup data.
-- Debug and maintain backend data pipelines, cutting manual review time by 45%.
+### 🚀 Software Engineer Intern - *NYU's Endless Frontier Labs (EFL)*
 
-**Visnity AI** - Freelance Software Engineer
-New York, USA (Remote) · Aug 2025 to Dec 2025
-- Founded and built an AI-powered job-matching platform end to end using Python, FastAPI, and PostgreSQL.
-- Structured messy candidate data into clean, queryable database records.
-- Built a LangChain LLM pipeline to extract resume insights, boosting match accuracy by 38%.
+📍 New York, USA | 🗓️ Apr 2026 to Present
 
-**Worldline Global Services** - Software Engineer
-Pune, India · Oct 2024 to Jul 2025
-- Architected 15+ RESTful APIs using Spring Boot for financial platform and transaction integrations.
-- Engineered payment microservices processing 10,000+ TPS daily at 99.9% uptime.
-- Debugged and tested distributed financial systems, driving Agile sprints with zero-defect releases.
+- Ship **agentic AI tools** and internal platforms to production for **30+ startup teams**
+- Build **LangChain RAG pipelines** extracting structured insights from messy founder and startup data
+- Debug and maintain backend data pipelines, cutting manual review time by **45%**
 
-**Worldline Global Services** - Development Intern
-Pune, India · Jun 2024 to Sep 2024
-- Built full-stack features using Java, Spring MVC, and Angular on live financial data systems.
-- Optimized SQL queries and auth flows, improving page load performance by 25%.
+**Stack:** `LangChain` · `Python` · `RAG` · `Backend Pipelines`
 
-**Maverick Labs** - Software Engineer Intern
-Pune, India · May 2023 to May 2024
-- Built real-time GPS tracking APIs in Java for fleet products serving 4,500+ concurrent users.
-- Optimized PostgreSQL queries and Redis caching, cutting data latency by 50%.
+---
+
+### 🛠 Freelance Software Engineer - *Visnity AI*
+
+📍 New York, USA (Remote) | 🗓️ Aug 2025 to Dec 2025
+
+- Founded and built an **AI-powered job-matching platform** end to end using Python, FastAPI, and PostgreSQL
+- Structured messy candidate data into clean, queryable database records
+- Built a **LangChain LLM pipeline** to extract resume insights, boosting match accuracy by **38%**
+
+**Stack:** `Python` · `FastAPI` · `PostgreSQL` · `LangChain`
+
+---
+
+### 💳 Software Engineer - *Worldline Global Services*
+
+📍 Pune, India | 🗓️ Oct 2024 to Jul 2025
+
+- Architected **15+ RESTful APIs** using Spring Boot for financial platform and transaction integrations
+- Engineered payment microservices processing **10,000+ TPS** daily at **99.9% uptime**
+- Debugged and tested distributed financial systems, driving Agile sprints with zero-defect releases
+
+**Stack:** `Java` · `Spring Boot` · `REST APIs` · `Agile`
+
+---
+
+### 💻 Development Intern - *Worldline Global Services*
+
+📍 Pune, India | 🗓️ Jun 2024 to Sep 2024
+
+- Built full-stack features using Java, Spring MVC, and Angular on live financial data systems
+- Optimized SQL queries and auth flows, improving page load performance by **25%**
+
+**Stack:** `Java` · `Spring MVC` · `Angular` · `SQL`
+
+---
+
+### 📡 Software Engineer Intern - *Maverick Labs*
+
+📍 Pune, India | 🗓️ May 2023 to May 2024
+
+- Built real-time **GPS tracking APIs** in Java for fleet products serving **4,500+ concurrent users**
+- Optimized PostgreSQL queries and Redis caching, cutting data latency by **50%**
+
+**Stack:** `Java` · `PostgreSQL` · `Redis`
 
 <br/>
 
@@ -108,25 +137,13 @@ Pune, India · May 2023 to May 2024
 
 ## Projects
 
-**ZeroDrive** `React` `Vite` `FastAPI` `Firebase` `Docker`
-Unlimited cloud storage using the Telegram Bot API as a zero-cost storage backend. 5 FastAPI microservices, Firebase auth and metadata layer.
-[Repo](https://github.com/Vikram739/ZeroDrive)
-
-**Stellarr** `Next.js` `Supabase` `pgvector` `GH Actions`
-AI job-hunting OS with zero always-on backend. GitHub Actions cron enriches jobs into Supabase pgvector across a 4-table schema (jobs, startups, contacts, outreach).
-[Repo](https://github.com/Vikram739/Stellarr) · [Live](https://stellarr.is-a.dev)
-
-**EFLense-v1** `Python` `LangChain` `LangGraph` `Supabase` `pgvector` `Next.js`
-Autonomous multi-agent pipeline extracting insights from unstructured startup data. RAG-based classification agents clean and structure 25 to 30 startup records daily, running on automated GitHub Actions workflows.
-[Repo](https://github.com/Vikram739/EFLense-v1)
-
-**CourseBid Exchange** `React` `Spring Boot` `Spring AI` `AWS` `JWT/OAuth 2.0` `Redis`
-Full-stack course bidding platform integrating PostgreSQL with a Spring AI powered data pipeline, secured via JWT/OAuth 2.0, with a Spring AI RAG chatbot for support. Sustains 1,500+ students and 4,500+ concurrent users reliably.
-[Repo](https://github.com/Shreyas191/course-bidding-system)
-
-**OrbiNasaSense** `Python` `PyTorch` `TensorFlow` `FastAPI` `Firebase`
-Real-time anomaly detection pipeline for spacecraft telemetry. Benchmarked LSTM, Transformer, and Isolation Forest for detection accuracy; Transformer won, with Redis-cached inference cutting latency 40%.
-[Repo](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)
+| Project | Timeline | Description | Stack |
+|---|---|---|---|
+| **[ZeroDrive](https://github.com/Vikram739/ZeroDrive)** | 2026 to Present | Unlimited cloud storage using the Telegram Bot API as a zero-cost storage backend. 5 FastAPI microservices, Firebase auth and metadata layer. | `React` `Vite` `FastAPI` `Firebase` `Docker` |
+| **[Stellarr](https://github.com/Vikram739/Stellarr)** | 2026 to Present | AI job-hunting OS with zero always-on backend. GitHub Actions cron enriches jobs into Supabase pgvector across a 4-table schema (jobs, startups, contacts, outreach). | `Next.js` `Supabase` `pgvector` `GH Actions` |
+| **[EFLense-v1](https://github.com/Vikram739/EFLense-v1)** | May 2026 to Present | Autonomous multi-agent pipeline extracting insights from unstructured startup data. RAG-based classification agents clean and structure 25 to 30 startup records daily via automated GitHub Actions workflows. | `Python` `LangChain` `LangGraph` `Supabase` `pgvector` `Next.js` |
+| **[CourseBid Exchange](https://github.com/Shreyas191/course-bidding-system)** | Aug 2025 to Dec 2025 | Full-stack course bidding platform integrating PostgreSQL with a Spring AI powered data pipeline, secured via JWT/OAuth 2.0, with a Spring AI RAG chatbot for support. Sustains 1,500+ students and 4,500+ concurrent users. | `React` `Spring Boot` `Spring AI` `AWS` `JWT/OAuth 2.0` `Redis` |
+| **[OrbiNasaSense](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)** | Sep 2025 to Present | Real-time anomaly detection pipeline for spacecraft telemetry. Benchmarked LSTM, Transformer, and Isolation Forest for detection accuracy; Transformer won, with Redis-cached inference cutting latency 40%. | `Python` `PyTorch` `TensorFlow` `FastAPI` `Firebase` |
 
 <br/>
 
@@ -151,11 +168,10 @@ Real-time anomaly detection pipeline for spacecraft telemetry. Benchmarked LSTM,
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="34"/></a>&nbsp;&nbsp;
-<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="34"/></a>&nbsp;&nbsp;
 <a href="mailto:vrm9190@nyu.edu"><img src="https://skillicons.dev/icons?i=gmail" height="34"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Vikram739" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="34"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="34"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="34"/></a>
+<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="34"/></a>&nbsp;&nbsp;
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="34"/></a>
 
 <br/><br/>
 
