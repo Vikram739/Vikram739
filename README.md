@@ -18,12 +18,12 @@
 
 <br/>
 
-<!-- ===================== REAL ICONS — bare, no background, jsDelivr CDN ===================== -->
-<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:vrm9190@nyu.edu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<!-- ===================== REAL ICONS — bare, no background, brand-colored ===================== -->
+<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vrm9190@nyu.edu"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="30"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Vikram739" target="_blank"><img src="https://cdn.simpleicons.org/github/E2E8F0" height="30"/></a>
 
 <br/><br/>
@@ -109,12 +109,12 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:vrm9190@nyu.edu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vikram-markali" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vikrammarkali.com" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vrm9190@nyu.edu"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="32"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Vikram739" target="_blank"><img src="https://cdn.simpleicons.org/github/E2E8F0" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" height="32"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" height="32"/></a>
+<a href="https://www.instagram.com/vikram.0_0_7/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/vikram.markali/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="32"/></a>
 
 <br/><br/>
 
