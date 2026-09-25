@@ -43,7 +43,7 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 - 🎓 Pursuing MS in Computer Science at New York University, graduating May 2027.
 - 💼 1+ years experience: Software Engineer at Worldline, plus internships at Maverick Labs and Visnity AI.
-- 🤖 Building agentic AI systems and LangChain pipelines at NYU Labs, used by 30+ startups.
+- 🤖 Building agentic AI systems and LangChain pipelines at NYU Labs, used by 100+ startups.
 - 💡 Passionate about scalable backend systems, applied LLMs, agentic pipelines, and full-stack engineering.
 - 📫 Connect: [LinkedIn](https://www.linkedin.com/in/vikram-markali) • [Email](mailto:vrm9190@nyu.edu) • [Portfolio](https://vikrammarkali.com)
 
