@@ -115,7 +115,11 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 ---
 
-<img src="stack.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stack.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="stack-light.svg"/>
+  <img src="stack.svg" width="100%" alt="Stack"/>
+</picture>
 
 <br/>
 
