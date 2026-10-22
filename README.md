@@ -131,9 +131,13 @@ Most of my current work splits between production VC-sourcing AI integrations by
 |---|---|---|---|
 | **[ZeroDrive](https://github.com/Vikram739/ZeroDrive)** | 2026 to Present | Unlimited cloud storage using the Telegram Bot API as a zero-cost storage backend. 5 FastAPI microservices, Firebase auth and metadata layer. | `React` `Vite` `FastAPI` `Firebase` `Docker` |
 | **[Stellarr](https://github.com/Vikram739/Stellarr)** | 2026 to Present | AI job-hunting OS with zero always-on backend. GitHub Actions cron enriches jobs into Supabase pgvector across a 4-table schema (jobs, startups, contacts, outreach). | `Next.js` `Supabase` `pgvector` `GH Actions` |
+| **[AskTheVideo](https://github.com/Vikram739/AskTheVideo)** | Oct 2026 | Retrieval-Augmented Generation (RAG) chatbot: paste a YouTube link and ask questions answered only from the transcript, with clickable timestamp citations. Multilingual embeddings, per-session FAISS index, and Maximal Marginal Relevance (MMR) retrieval. | `Python` `LangChain` `FAISS` `Hugging Face` `Groq` `Streamlit` `Docker` |
+| **[FleetPulse](https://github.com/Vikram739/fleetpulse)** | Sep 2026 | Real-time vehicle fleet telemetry and over-the-air (OTA) update platform. WebSocket ingestion with Redis pub/sub, staged canary rollouts with automatic rollback, a live React fleet map, and a LangChain diagnostics copilot with Groq and Ollama fallback. | `FastAPI` `Redis` `PostgreSQL` `React` `TypeScript` `LangChain` `Docker` |
 | **[EFLense-v1](https://github.com/Vikram739/EFLense-v1)** | May 2026 to Present | Autonomous multi-agent pipeline extracting insights from unstructured startup data. RAG-based classification agents clean and structure 25 to 30 startup records daily via automated GitHub Actions workflows. | `Python` `LangChain` `LangGraph` `Supabase` `pgvector` `Next.js` |
 | **[CourseBid Exchange](https://github.com/Shreyas191/course-bidding-system)** | Aug 2025 to Dec 2025 | Full-stack course bidding platform integrating PostgreSQL with a Spring AI powered data pipeline, secured via JWT/OAuth 2.0, with a Spring AI RAG chatbot for support. Sustains 1,500+ students and 4,500+ concurrent users. | `React` `Spring Boot` `Spring AI` `AWS` `JWT/OAuth 2.0` `Redis` |
 | **[OrbiNasaSense](https://github.com/Vikram739/OrbiNasaSense---Spacecraft-orbital-watch-system-using-NASA-telemetry)** | Sep 2025 to Present | Real-time anomaly detection pipeline for spacecraft telemetry. Benchmarked LSTM, Transformer, and Isolation Forest for detection accuracy; Transformer won, with Redis-cached inference cutting latency 40%. | `Python` `PyTorch` `TensorFlow` `FastAPI` `Firebase` |
+| **[EFL Clone](https://github.com/Vikram739/efl-clone)** | Feb 2026 | Recreation of the NYU Endless Frontier Labs website, built from scratch as an internship task. Server-side rendering in PHP with a MySQL schema and responsive layout. | `PHP` `MySQL` `JavaScript` `CSS` |
+| **[barewire](https://github.com/Vikram739/barewire)** | Sep 2026 | Command-line chatbot built directly on a Large Language Model (LLM) API's raw HTTP endpoint with no framework, making conversation memory, system prompts, and temperature visible. Day 1 of a 30-day AI engineering series. | `Python` `httpx` `Groq` |
 
 <br/>
 
@@ -143,7 +147,7 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram739&hide_border=true&background=0d1117&stroke=0d1117&ring=FF6B35&fire=FFB800&currStreakLabel=FF6B35&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=12" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram739&hide_border=true&background=0d1117&stroke=0d1117&ring=FF6B35&fire=FFB800&currStreakLabel=FF6B35&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=12&starting_year=2021" height="165"/>
 
 </div>
 
@@ -171,7 +175,7 @@ Most of my current work splits between production VC-sourcing AI integrations by
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vikram739&label=Profile%20views&color=22D3EE&style=flat" alt="Profile views"/>
+<img src="https://hits.sh/github.com/Vikram739/Vikram739.svg?label=Profile%20views&color=22D3EE&labelColor=555555&style=flat&extraCount=3013" alt="Profile views"/>
 
 <br/><br/>
 
